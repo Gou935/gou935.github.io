@@ -5,5 +5,7 @@ image: sos.jpg
 draft: false
 ---
 
+這是SOS的譜面研究
+
 ### 手元影片
 {{<youtube w5mM_Ww4okE>}}
