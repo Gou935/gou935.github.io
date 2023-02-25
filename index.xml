@@ -6,7 +6,107 @@
         <description>Recent content on Gou935.com</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Fri, 17 Feb 2023 12:49:29 +0800</lastBuildDate><atom:link href="https://gou935.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Feb 2023 23:54:34 +0800</lastBuildDate><atom:link href="https://gou935.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>SOS AJ解說</title>
+        <link>https://gou935.github.io/p/sos-aj%E8%A7%A3%E8%AA%AA/</link>
+        <pubDate>Sun, 19 Feb 2023 23:54:34 +0800</pubDate>
+        
+        <guid>https://gou935.github.io/p/sos-aj%E8%A7%A3%E8%AA%AA/</guid>
+        <description>&lt;img src="https://gou935.github.io/sos.jpg" alt="Featured image of post SOS AJ解說" /&gt;&lt;h3 id=&#34;前言&#34;&gt;前言&lt;/h3&gt;
+&lt;p&gt;這篇文本來是想測試一下影片播放功能，但好像有版權問題不能直接播放。就順便寫個解說&lt;/p&gt;
+&lt;h3 id=&#34;譜面分析&#34;&gt;譜面分析&lt;/h3&gt;
+&lt;p&gt;(SON OF SUN)以下簡稱SOS&lt;/p&gt;
+&lt;p&gt;關於SOS的譜面，我會說對於大部分有R16左右地力的人來講，整體上並沒有太多複雜的部分，所以這篇我主要會講解尾殺的部分。&lt;/p&gt;
+&lt;h3 id=&#34;平地部分&#34;&gt;平地部分&lt;/h3&gt;
+&lt;p&gt;像剛剛說的，平地的部分我覺得沒有什麼好講的，但還是有一些地方可以稍微提一下。
+在第61小節開始的配置：
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/61measure.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;61小節配置&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+由於slide的配置過於傾斜，移動判定會消失。因此只要完成&lt;strong&gt;始點&lt;/strong&gt;以及&lt;strong&gt;keep&lt;/strong&gt;的判定就可以了。換句話說，左手打tap、右手按住就可以完成判定。
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/61measure2.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;右手按住&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;尾殺部分&#34;&gt;尾殺部分&lt;/h3&gt;
+&lt;p&gt;尾殺的認識難部分，讓許多玩家在這裡噴掉大部分分數&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;能不能上SSS就看這裡了&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一般來說，尾殺的攻略手法分為三種&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;左右交互正攻打法&lt;/li&gt;
+&lt;li&gt;左右手拆分打法&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;全押&lt;/del&gt;(8分)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我是採用第2種打法
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/77measure.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;77小節配置&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+在尾殺的部分，因為音符最小只有分隔到四分之一大小，所以可以用右手打右側3/4部分；左手打剩餘的1/4部分。
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/77measure2.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;四分分割&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+實際上的按鍵配置大概是像這樣。(&lt;strong&gt;左手藍色、右手紅色&lt;/strong&gt;)
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/77measure3.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;按鍵配置&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+至於打的節奏則是左手四分音符 右手八分音符的節奏。
+如果你不太確定四分音符以及八分音符的意思的話，你除了可以上網查之外，我也可以試著做一個說明。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;X分音符代表著該音符&lt;strong&gt;相對於全音符的時長&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;假設以四分音符為一拍，八分音符則為四分音符的&lt;strong&gt;一半時長&lt;/strong&gt;；這也表示八分音符打的&lt;strong&gt;速度會是四分音符的2倍&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;拍號是設定拍子的符號，以分數的形式寫出。分母為設定單位拍，分子為每小節單位拍數量   例: 4/4&lt;/li&gt;
+&lt;li&gt;以(SOS)BPM200、4/4四四拍的曲子為例：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;以四分音符為一拍，一個小節有四拍；也就是&lt;strong&gt;一個小節會有四個四分音符(上圖藍色的部分)&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;而八分音符為四分音符的一半時長；換句話說，&lt;strong&gt;2個八分音符等於一個四分音符(上圖紅色部分)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;BPM200的四分音符的速度
+&lt;figure class=&#34;something&#34;&gt;
+&lt;audio controls preload=&#34;metadata&#34;&gt;
+&lt;source src=&#34;https://gou935.github.io/sosbpm.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+
+&lt;/audio&gt;
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;實際遊玩的時候因為譜面視覺上的影響比我想像中的大，所以到最後我是稍微把視線移開螢幕，主要靠節奏來打(雖然中間有點亂掉)。&lt;/p&gt;
+&lt;h4 id=&#34;一些小細節&#34;&gt;一些小細節&lt;/h4&gt;
+&lt;p&gt;我覺得還可以注意的一點是77小節開始是左手啟動並且要抬手，這容易造成右手節奏錯亂；所以即便右手第一拍並沒有音符我還是會一起按下去。
+這在日文中有一個詞叫「&lt;strong&gt;空打ち&lt;/strong&gt;」，意思就是在沒有音符的地方空打來維持節奏。
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/77measure4.jpg&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;尾殺一開始&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;手元影片&#34;&gt;手元影片&lt;/h3&gt;
+&lt;p&gt;最後，歡迎在YouTube上看看手元影片&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=y6NvEOot6Qw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Youtube連結&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://gou935.github.io/sosaj.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34; Image not found: sosaj.jpg&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://sdvx.in/chunithm/05/05079mst.htm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;譜面保管所&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>[CHUNITHM] 一篇文章告訴你如何計算R值!</title>
         <link>https://gou935.github.io/p/chunithm-%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%91%8A%E8%A8%B4%E4%BD%A0%E5%A6%82%E4%BD%95%E8%A8%88%E7%AE%97r%E5%80%BC/</link>
         <pubDate>Fri, 17 Feb 2023 12:49:29 +0800</pubDate>
@@ -160,9 +260,9 @@ R值的計算公式是：&lt;/p&gt;
         
         <guid>https://gou935.github.io/%E9%97%9C%E6%96%BC%E6%88%91/</guid>
         <description>&lt;h3 id=&#34;關於這個blog&#34;&gt;關於這個Blog&lt;/h3&gt;
-&lt;p&gt;我什麼都還沒寫～
-不是很擅長文件管理，感覺還要再研究一下。&lt;/p&gt;
+&lt;p&gt;我什麼都還沒寫～&lt;/p&gt;
 &lt;h3 id=&#34;喜歡的東西&#34;&gt;喜歡的東西&lt;/h3&gt;
+&lt;h3 id=&#34;怎麼聯繫我&#34;&gt;怎麼聯繫我&lt;/h3&gt;
 </description>
         </item>
         <item>
