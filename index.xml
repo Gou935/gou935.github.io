@@ -71,12 +71,17 @@
 &lt;li&gt;而八分音符為四分音符的一半時長；換句話說，&lt;strong&gt;2個八分音符等於一個四分音符(上圖紅色部分)&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;BPM200的四分音符的速度
-&lt;figure class=&#34;something&#34;&gt;
-&lt;audio controls preload=&#34;metadata&#34;&gt;
-&lt;source src=&#34;https://gou935.github.io/sosbpm.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
-
-&lt;/audio&gt;
-&lt;/figure&gt;&lt;/p&gt;
+&lt;figure&gt;
+    &lt;figcaption&gt;Listen to the T-Rex:&lt;/figcaption&gt;
+    &lt;audio
+        controls
+        src=&#34;https://gou935.github.io/media/cc0-audio/t-rex-roar.mp3&#34;&gt;
+            &lt;a href=&#34;https://gou935.github.io/media/cc0-audio/t-rex-roar.mp3&#34;&gt;
+                Download audio
+            &lt;/a&gt;
+    &lt;/audio&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;實際遊玩的時候因為譜面視覺上的影響比我想像中的大，所以到最後我是稍微把視線移開螢幕，主要靠節奏來打(雖然中間有點亂掉)。&lt;/p&gt;
 &lt;h4 id=&#34;一些小細節&#34;&gt;一些小細節&lt;/h4&gt;
 &lt;p&gt;我覺得還可以注意的一點是77小節開始是左手啟動並且要抬手，這容易造成右手節奏錯亂；所以即便右手第一拍並沒有音符我還是會一起按下去。
