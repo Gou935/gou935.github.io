@@ -72,13 +72,10 @@
 &lt;/ul&gt;
 &lt;p&gt;BPM200的四分音符的速度
 &lt;figure&gt;
-    &lt;figcaption&gt;Listen to the T-Rex:&lt;/figcaption&gt;
+    &lt;figcaption&gt;bpm200的四分音符的速度:&lt;/figcaption&gt;
     &lt;audio
         controls
-        src=&#34;https://gou935.github.io/media/cc0-audio/t-rex-roar.mp3&#34;&gt;
-            &lt;a href=&#34;https://gou935.github.io/media/cc0-audio/t-rex-roar.mp3&#34;&gt;
-                Download audio
-            &lt;/a&gt;
+        src=&#34;https://gou935.github.io/sosbpm.mp3&#34;&gt;
     &lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
