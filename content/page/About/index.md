@@ -1,34 +1,37 @@
 ---
 title: "關於我"
-description: 哈囉，我是Gou
-date: '2019-02-28'
+description: 哈囉！我是Gou！
+date: "2023-03-13"
 aliases:
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
 menu:
-    main: 
-        weight: -90
-        params:
-            icon: info
+  main:
+    weight: -90
+    params:
+      icon: info
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+### 關於這個 Blog
 
-Hugo makes use of a variety of open source projects including:
+這個 Blog 是用[Hugo](https://gohugo.io/)架設的，基本上就是我個人的部落格。
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+內容包括遊戲、音樂等任何我有興趣的事。
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+目前還有很多技術上的問題要解決，可能需要一些時間佈置。
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+### 關於我
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+目前是一名大學生，主修經濟學。
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+### 怎麼聯繫我？
+
+作為一名普通玩家我不能保證所有資訊來源都是正確的，所以如果你有任何的問題，或是想找我的話請用以下的方式聯繫我：
+
+- Email：gou935@outlook.com
+
+- 我的[twitter](https://twitter.com/Gou935)
+  
+  我會盡力回答的！！
