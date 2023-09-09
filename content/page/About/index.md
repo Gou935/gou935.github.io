@@ -32,6 +32,8 @@ menu:
 
 - Email：gou935@outlook.com
 
+- [Github](https://github.com/Gou935)
+
 - 我的[twitter](https://twitter.com/Gou935)
   
   我會盡力回答的！！
