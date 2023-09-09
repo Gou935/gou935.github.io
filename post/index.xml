@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Gou935.com</title>
-        <link>https://github.com/Gou935/gou935.github.io.git/post/</link>
+        <link>https://gou935.github.io/post/</link>
         <description>Recent content in Posts on Gou935.com</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Tue, 14 Mar 2023 17:14:58 +0800</lastBuildDate><atom:link href="https://github.com/Gou935/gou935.github.io.git/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 14 Mar 2023 17:14:58 +0800</lastBuildDate><atom:link href="https://gou935.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>中二節奏介紹</title>
-        <link>https://github.com/Gou935/gou935.github.io.git/post/chunithm/</link>
+        <link>https://gou935.github.io/post/chunithm/</link>
         <pubDate>Tue, 14 Mar 2023 17:14:58 +0800</pubDate>
         
-        <guid>https://github.com/Gou935/gou935.github.io.git/post/chunithm/</guid>
-        <description>&lt;img src="https://github.com/images/chunithm-sun.jpg" alt="Featured image of post 中二節奏介紹" /&gt;&lt;h4 id=&#34;這篇需要的資料&#34;&gt;這篇需要的資料&lt;/h4&gt;
+        <guid>https://gou935.github.io/post/chunithm/</guid>
+        <description>&lt;img src="https://gou935.github.io/images/chunithm-sun.jpg" alt="Featured image of post 中二節奏介紹" /&gt;&lt;h4 id=&#34;這篇需要的資料&#34;&gt;這篇需要的資料&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;圖片&lt;/p&gt;
@@ -48,7 +48,7 @@
 &lt;p&gt;銀色的機台&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/chunithm-sun.jpg&#34; width=&#34;350&#34;/&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/chunithm-sun.jpg&#34; width=&#34;350&#34;/&gt;&lt;figcaption&gt;
             &lt;h4&gt;機台對比&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -138,7 +138,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;為什麼需要手套呢？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;中二節奏的操作都是由觸控板，&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/touhi.jpg&#34; width=&#34;150&#34;/&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/touhi.jpg&#34; width=&#34;150&#34;/&gt;&lt;figcaption&gt;
             &lt;h4&gt;STAR的小顆粒指押&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -152,7 +152,7 @@
 &lt;p&gt;材質應該要足夠滑順&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/star.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/star.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
             &lt;h4&gt;STAR的小顆粒指押&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -160,13 +160,13 @@
 &lt;p&gt;&lt;strong&gt;有推薦的手套嗎？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;一般常用的有工業手套，尼龍&lt;/p&gt;
 &lt;p&gt;我個人最推薦尼龍手套&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/star.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/star.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
             &lt;h4&gt;STAR的小顆粒指押&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;比起厚且粗糙的工業手套，&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/gunte.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/gunte.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
             &lt;h4&gt;工業手套&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -220,11 +220,11 @@
         </item>
         <item>
         <title>[CHUNITHM] 一篇文章告訴你如何計算R值（Rating）!</title>
-        <link>https://github.com/Gou935/gou935.github.io.git/post/rating/</link>
+        <link>https://gou935.github.io/post/rating/</link>
         <pubDate>Fri, 17 Feb 2023 12:49:29 +0800</pubDate>
         
-        <guid>https://github.com/Gou935/gou935.github.io.git/post/rating/</guid>
-        <description>&lt;img src="https://github.com/images/irodorimidori.jpg" alt="Featured image of post [CHUNITHM] 一篇文章告訴你如何計算R值（Rating）!" /&gt;&lt;p&gt;你有沒有曾經聽過其他人在討論譜面時常常提到一些數字但聽得一頭霧水，例如 14.5、13.6～&lt;/p&gt;
+        <guid>https://gou935.github.io/post/rating/</guid>
+        <description>&lt;img src="https://gou935.github.io/images/irodorimidori.jpg" alt="Featured image of post [CHUNITHM] 一篇文章告訴你如何計算R值（Rating）!" /&gt;&lt;p&gt;你有沒有曾經聽過其他人在討論譜面時常常提到一些數字但聽得一頭霧水，例如 14.5、13.6～&lt;/p&gt;
 &lt;p&gt;這篇文章我要來告訴你一些應該知道的詞：&lt;strong&gt;譜面定數&lt;/strong&gt;、&lt;strong&gt;B30&lt;/strong&gt;和&lt;strong&gt;R10&lt;/strong&gt;，並且告訴你怎麼計算自己的R值。&lt;/p&gt;
 &lt;h3 id=&#34;為什麼要知道這些&#34;&gt;為什麼要知道這些？&lt;/h3&gt;
 &lt;p&gt;這篇文章主要是寫給新手玩家或者是不清楚Rating是怎麼計算的人，了解R值計算對於選擇遊玩的曲目很有幫助。文中會用到查分器來說明，還沒用過的人可以跟著一起用看看。&lt;/p&gt;
@@ -237,20 +237,20 @@
 &lt;p&gt;例如說：&lt;/p&gt;
 &lt;p&gt;下面這首（天空カフェテリア）的 Master 難度標示為 12，但實際上的數值是（12.2）&lt;/p&gt;
 &lt;p&gt;而另一首（ごまかし）的 Master 難度標示同樣為 12，但實際上的數值是（12.1）
-&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/usagi.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/usagi.jpg&#34;
          alt=&#34;點兔香香&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;（12.2）&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/gomakashi.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/gomakashi.jpg&#34;
          alt=&#34;神曲&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;（12.1）&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;還有像是這首12+，譜面定數為（12.9）：&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/redeyes.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/redeyes.jpg&#34;
          alt=&#34;赤瞳&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;（12.9）&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -265,12 +265,12 @@
 &lt;h3 id=&#34;成績定數&#34;&gt;成績定數&lt;/h3&gt;
 &lt;p&gt;成績定數是計算一首曲子遊玩後單曲成績的計算規則&lt;/p&gt;
 &lt;p&gt;表格中列出了拿到各種成績時的計算方法&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/ratingformula.jpg&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/ratingformula.jpg&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
             &lt;h4&gt;成績定數表1&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/ratingformula2.jpg&#34; width=&#34;400&#34;/&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/ratingformula2.jpg&#34; width=&#34;400&#34;/&gt;&lt;figcaption&gt;
             &lt;h4&gt;成績定數表2&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -288,7 +288,7 @@
 &lt;/ul&gt;
 &lt;p&gt;當然你也可以用 chunirec 的&lt;a class=&#34;link&#34; href=&#34;https://chunirec.net/tools/calc/play-rating&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;單曲 R 值計算工具&lt;/a&gt;來簡單計算
-&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/ratingcaculate.jpg&#34; width=&#34;500&#34;/&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/ratingcaculate.jpg&#34; width=&#34;500&#34;/&gt;&lt;figcaption&gt;
             &lt;h4&gt;單曲R值為14.30&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -310,7 +310,7 @@
 &lt;p&gt;成功啟動查分器後你可以看到以單曲 R 值排列的表格。在每一首曲子的最右邊顯示著相應成績所計算出來的單曲 R 值。
 1 ～ 30 的曲子就是你的 B30，而右上角還有顯示 B30 的平均為: （16.1767）&lt;/p&gt;
 &lt;p&gt;B30 是組成 R 值的重要部分，因為 B30 只要成功更新後就不會再下降，相當於是 R 值的根本。但由於 B30 中&lt;strong&gt;同一曲子的成績只會計算一次不會重複&lt;/strong&gt;，所以要想提高 B30 的話就得要不斷挑戰新曲子；可以說提高 B30 就是提高自己 R 值的上限。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/best30.jpg&#34; width=&#34;460&#34;/&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/best30.jpg&#34; width=&#34;460&#34;/&gt;&lt;figcaption&gt;
             &lt;h4&gt;我的B30（雖然只截到15）&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -319,7 +319,7 @@
 &lt;p&gt;而點選到 Recent 頁面你就可以看到 R10 了。同樣的右上角顯示 R10 平均為: （16.3050）&lt;/p&gt;
 &lt;p&gt;R10 代表著你近期的表現，不像 B30；R10 會隨著近期的表現不斷更新，這表示 R 值會隨著 R10 的浮動而升降（&lt;del&gt;你會掉R就是因為它&lt;/del&gt;）。
 由於 R10&lt;strong&gt;可以重複計入&lt;/strong&gt;，因此 R10 全是同一首曲的情況也是可以的。（就連續打）&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/recent10.jpg&#34; width=&#34;460&#34;/&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/recent10.jpg&#34; width=&#34;460&#34;/&gt;&lt;figcaption&gt;
             &lt;h4&gt;我的R10&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -334,7 +334,7 @@ R 值的計算公式是：&lt;/p&gt;
 &lt;a class=&#34;link&#34; href=&#34;https://chunirec.net/tools/calc/rating-simu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Rating 計算器&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;只要輸入 B30 平均和 R10 平均就可以輕鬆的算出 R 值
-&lt;figure&gt;&lt;img src=&#34;https://github.com/Gou935/gou935.github.io.git/images/ratingsimulator.jpg&#34; width=&#34;500&#34;/&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/ratingsimulator.jpg&#34; width=&#34;500&#34;/&gt;&lt;figcaption&gt;
             &lt;h4&gt;由上面的圖計算出R值為16.20&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
