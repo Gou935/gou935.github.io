@@ -6,7 +6,766 @@
         <description>Recent content in Posts on Gou935.com</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Fri, 17 Feb 2023 12:49:29 +0800</lastBuildDate><atom:link href="https://gou935.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 24 Aug 2023 22:58:43 +0800</lastBuildDate><atom:link href="https://gou935.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Bpm_checker</title>
+        <link>https://gou935.github.io/post/bpm_checker/</link>
+        <pubDate>Thu, 24 Aug 2023 22:58:43 +0800</pubDate>
+        
+        <guid>https://gou935.github.io/post/bpm_checker/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Mirror</title>
+        <link>https://gou935.github.io/post/mirror/</link>
+        <pubDate>Mon, 10 Jul 2023 15:19:05 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/mirror/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>CHUNITHM回顧</title>
+        <link>https://gou935.github.io/post/chunithm%E5%9B%9E%E9%A1%A7/</link>
+        <pubDate>Sun, 09 Jul 2023 11:13:38 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/chunithm%E5%9B%9E%E9%A1%A7/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>看動漫可以學日文嗎？</title>
+        <link>https://gou935.github.io/post/%E7%9C%8B%E5%8B%95%E6%BC%AB%E5%8F%AF%E4%BB%A5%E5%AD%B8%E6%97%A5%E6%96%87%E5%97%8E/</link>
+        <pubDate>Fri, 23 Jun 2023 13:33:51 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/%E7%9C%8B%E5%8B%95%E6%BC%AB%E5%8F%AF%E4%BB%A5%E5%AD%B8%E6%97%A5%E6%96%87%E5%97%8E/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Idol Master</title>
+        <link>https://gou935.github.io/post/idol-master/</link>
+        <pubDate>Thu, 22 Jun 2023 21:48:03 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/idol-master/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Aime</title>
+        <link>https://gou935.github.io/post/aime/</link>
+        <pubDate>Thu, 22 Jun 2023 15:35:55 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/aime/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>音mad</title>
+        <link>https://gou935.github.io/post/otomad/</link>
+        <pubDate>Wed, 21 Jun 2023 22:39:13 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/otomad/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Hugo</title>
+        <link>https://gou935.github.io/post/hugo/</link>
+        <pubDate>Wed, 21 Jun 2023 22:33:23 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/hugo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Kirby</title>
+        <link>https://gou935.github.io/post/kirby/</link>
+        <pubDate>Wed, 21 Jun 2023 22:33:08 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/kirby/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Terminal</title>
+        <link>https://gou935.github.io/post/terminal/</link>
+        <pubDate>Wed, 21 Jun 2023 22:32:58 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/terminal/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Markdown</title>
+        <link>https://gou935.github.io/post/markdown/</link>
+        <pubDate>Wed, 21 Jun 2023 20:28:28 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/markdown/</guid>
+        <description>&lt;img src="https://gou935.github.io/images/markdown.jpg" alt="Featured image of post Markdown" /&gt;&lt;h3 id=&#34;markdown是什麼&#34;&gt;Markdown是什麼？&lt;/h3&gt;
+&lt;h3 id=&#34;為什麼要用&#34;&gt;為什麼要用？&lt;/h3&gt;
+&lt;h3 id=&#34;markdown文字編輯器&#34;&gt;Markdown文字編輯器&lt;/h3&gt;
+&lt;h3 id=&#34;網站編輯&#34;&gt;網站編輯&lt;/h3&gt;
+&lt;h3 id=&#34;一些用法的介紹&#34;&gt;一些用法的介紹&lt;/h3&gt;
+&lt;p&gt;（可以放這個頁面的&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Dr.pepper</title>
+        <link>https://gou935.github.io/post/dr.pepper/</link>
+        <pubDate>Tue, 20 Jun 2023 16:22:39 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/dr.pepper/</guid>
+        <description>&lt;img src="https://gou935.github.io/images/dr-pepper.jpg" alt="Featured image of post Dr.pepper" /&gt;&lt;h3 id=&#34;歷史&#34;&gt;歷史&lt;/h3&gt;
+&lt;h3 id=&#34;知性的飲料&#34;&gt;知性的飲料&lt;/h3&gt;
+&lt;h4 id=&#34;出現的動畫作品&#34;&gt;出現的動畫作品&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;命運石之門&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;神的記事本&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+</description>
+        </item>
+        <item>
+        <title>RSS</title>
+        <link>https://gou935.github.io/post/rss/</link>
+        <pubDate>Tue, 20 Jun 2023 15:24:42 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/rss/</guid>
+        <description>&lt;img src="https://gou935.github.io/images/rss.jpg" alt="Featured image of post RSS" /&gt;&lt;h2 id=&#34;什麼是rss&#34;&gt;什麼是RSS？&lt;/h2&gt;
+&lt;h2 id=&#34;rss有什麼用&#34;&gt;RSS有什麼用？&lt;/h2&gt;
+&lt;p&gt;你有沒有這種經驗？每次看到喜歡的網站就加到資料夾，想著更新內容的時候可以看看，但下一次再打開它已經是幾百年後的事了。&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/screenshot.jpg&#34;
+         alt=&#34;我的桌面&#34; width=&#34;700&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;我的桌面&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;rss原理&#34;&gt;RSS原理&lt;/h3&gt;
+&lt;h3 id=&#34;要訂閱rss需要什麼&#34;&gt;要訂閱RSS需要什麼？&lt;/h3&gt;
+&lt;h3 id=&#34;推薦的rss服務&#34;&gt;推薦的RSS服務&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://feedly.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Feedly&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;線上服務&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;免費&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;但如果要訂閱多個RSS需要付月費&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;多平台使用&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://netnewswire.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NetNesWire&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Open source&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不用擔心突然倒閉&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;免費&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;macOS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;介面乾淨&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;歡迎訂閱我的網站喔&#34;&gt;歡迎訂閱我的網站喔！&lt;/h3&gt;
+&lt;p&gt;Gou935.com也提供了RSS的訂閱服務，只要照著剛剛的步驟，&lt;/p&gt;
+&lt;p&gt;就可以訂閱我的網站。&lt;/p&gt;
+&lt;p&gt;從今以後，你就不需要再，更新會自動通知喔。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;趕快去使用看看吧！&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>越級</title>
+        <link>https://gou935.github.io/post/%E8%B6%8A%E7%B4%9A/</link>
+        <pubDate>Mon, 12 Jun 2023 17:01:11 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/%E8%B6%8A%E7%B4%9A/</guid>
+        <description>&lt;h3 id=&#34;什麼是越級&#34;&gt;什麼是越級？&lt;/h3&gt;
+</description>
+        </item>
+        <item>
+        <title>Myth</title>
+        <link>https://gou935.github.io/post/myth/</link>
+        <pubDate>Mon, 12 Jun 2023 17:00:12 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/myth/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Kabe</title>
+        <link>https://gou935.github.io/post/kabe/</link>
+        <pubDate>Sun, 11 Jun 2023 21:00:31 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/kabe/</guid>
+        <description>&lt;h3 id=&#34;例&#34;&gt;例&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Deemo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ⅡDX&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>遞減收益</title>
+        <link>https://gou935.github.io/post/%E9%81%9E%E6%B8%9B%E6%94%B6%E7%9B%8A/</link>
+        <pubDate>Tue, 06 Jun 2023 02:20:24 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/%E9%81%9E%E6%B8%9B%E6%94%B6%E7%9B%8A/</guid>
+        <description>&lt;h3 id=&#34;實力的成長會有遞減效應&#34;&gt;實力的成長會有遞減效應&lt;/h3&gt;
+</description>
+        </item>
+        <item>
+        <title>銀色Possession</title>
+        <link>https://gou935.github.io/post/silver-possession/</link>
+        <pubDate>Sat, 03 Jun 2023 11:10:16 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/silver-possession/</guid>
+        <description>&lt;img src="https://gou935.github.io/images/possession.jpg" alt="Featured image of post 銀色Possession" /&gt;</description>
+        </item>
+        <item>
+        <title>Cardcaptor Sakura</title>
+        <link>https://gou935.github.io/post/cardcaptor-sakura/</link>
+        <pubDate>Tue, 30 May 2023 20:14:53 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/cardcaptor-sakura/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Fumenkenkyu</title>
+        <link>https://gou935.github.io/post/fumenkenkyu/</link>
+        <pubDate>Mon, 29 May 2023 17:41:59 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/fumenkenkyu/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>らきすた</title>
+        <link>https://gou935.github.io/post/%E3%82%89%E3%81%8D%E3%81%99%E3%81%9F/</link>
+        <pubDate>Tue, 23 May 2023 20:19:55 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/%E3%82%89%E3%81%8D%E3%81%99%E3%81%9F/</guid>
+        <description>&lt;h3 id=&#34;バルサミコ酢&#34;&gt;バルサミコ酢&lt;/h3&gt;
+</description>
+        </item>
+        <item>
+        <title>背譜</title>
+        <link>https://gou935.github.io/post/%E8%83%8C%E8%AD%9C/</link>
+        <pubDate>Tue, 23 May 2023 18:51:29 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/%E8%83%8C%E8%AD%9C/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Stein Gates</title>
+        <link>https://gou935.github.io/post/stein-gates/</link>
+        <pubDate>Tue, 23 May 2023 13:11:02 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/stein-gates/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Rhythm Tengoku</title>
+        <link>https://gou935.github.io/post/rhythm-tengoku/</link>
+        <pubDate>Tue, 23 May 2023 13:10:33 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/rhythm-tengoku/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Morse_code</title>
+        <link>https://gou935.github.io/post/morse_code/</link>
+        <pubDate>Fri, 19 May 2023 17:33:09 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/morse_code/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Convenience(NPC)</title>
+        <link>https://gou935.github.io/post/conveniencenpc/</link>
+        <pubDate>Fri, 19 May 2023 08:28:28 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/conveniencenpc/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Convenience(NPC)</title>
+        <link>https://gou935.github.io/post/convenience/</link>
+        <pubDate>Fri, 19 May 2023 08:28:28 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/convenience/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>音遊反應</title>
+        <link>https://gou935.github.io/post/reaction/</link>
+        <pubDate>Tue, 16 May 2023 05:06:07 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/reaction/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>給新手玩家的一些小技巧</title>
+        <link>https://gou935.github.io/post/tips-for-beginners/</link>
+        <pubDate>Tue, 16 May 2023 04:47:14 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/tips-for-beginners/</guid>
+        <description>&lt;h3 id=&#34;大致內容&#34;&gt;大致內容：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;心態問題&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;遊玩方式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;設定&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Rhythm</title>
+        <link>https://gou935.github.io/post/rhythm/</link>
+        <pubDate>Tue, 16 May 2023 04:01:46 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/rhythm/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>地力</title>
+        <link>https://gou935.github.io/post/jiriki/</link>
+        <pubDate>Mon, 15 May 2023 14:56:38 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/jiriki/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>換手</title>
+        <link>https://gou935.github.io/post/mochikae/</link>
+        <pubDate>Mon, 15 May 2023 00:15:36 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/mochikae/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Air判定</title>
+        <link>https://gou935.github.io/post/air/</link>
+        <pubDate>Mon, 15 May 2023 00:09:02 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/air/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>SLIDE判定</title>
+        <link>https://gou935.github.io/post/slide/</link>
+        <pubDate>Mon, 15 May 2023 00:07:22 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/slide/</guid>
+        <description>&lt;h1 id=&#34;slide的判定規則&#34;&gt;SLIDE的判定規則&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Slide的起點是Tap判定，也就是說如果亂擦的話是會attack除非有標記ex&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>一些容易被忽視的事</title>
+        <link>https://gou935.github.io/post/overlooked/</link>
+        <pubDate>Sun, 14 May 2023 19:56:19 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/overlooked/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>一些推薦的動漫</title>
+        <link>https://gou935.github.io/post/anime_recommend/</link>
+        <pubDate>Sun, 14 May 2023 18:50:26 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/anime_recommend/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>東方介紹 ！！</title>
+        <link>https://gou935.github.io/post/touhou/</link>
+        <pubDate>Sun, 14 May 2023 18:42:15 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/touhou/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>關於音遊玩家不知道為什麼都喜歡吃拉麵還一定要發到社群網站這件事</title>
+        <link>https://gou935.github.io/post/ramen/</link>
+        <pubDate>Sun, 14 May 2023 05:56:34 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/ramen/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>日檢2級</title>
+        <link>https://gou935.github.io/post/n2_guide/</link>
+        <pubDate>Thu, 11 May 2023 09:50:19 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/n2_guide/</guid>
+        <description>&lt;h3 id=&#34;日本語能力試驗jlpt是什麼&#34;&gt;日本語能力試驗（JLPT）是什麼？&lt;/h3&gt;
+</description>
+        </item>
+        <item>
+        <title>餡蜜</title>
+        <link>https://gou935.github.io/post/anmitsu/</link>
+        <pubDate>Thu, 04 May 2023 16:00:37 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/anmitsu/</guid>
+        <description>&lt;img src="https://gou935.github.io/images/anmitsu.jpeg" alt="Featured image of post 餡蜜" /&gt;&lt;h2 id=&#34;餡蜜是什麼&#34;&gt;餡蜜是什麼？&lt;/h2&gt;
+</description>
+        </item>
+        <item>
+        <title>縦連判定</title>
+        <link>https://gou935.github.io/post/tateren/</link>
+        <pubDate>Sun, 23 Apr 2023 13:25:24 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/tateren/</guid>
+        <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+</description>
+        </item>
+        <item>
+        <title>Sound Voltex介紹</title>
+        <link>https://gou935.github.io/post/sdvx/</link>
+        <pubDate>Tue, 14 Mar 2023 22:30:50 +0800</pubDate>
+        
+        <guid>https://gou935.github.io/post/sdvx/</guid>
+        <description>&lt;img src="https://gou935.github.io/images/sdvx_title.jpg" alt="Featured image of post Sound Voltex介紹" /&gt;</description>
+        </item>
+        <item>
+        <title>中二節奏介紹</title>
+        <link>https://gou935.github.io/post/chunithm/</link>
+        <pubDate>Tue, 14 Mar 2023 17:14:58 +0800</pubDate>
+        
+        <guid>https://gou935.github.io/post/chunithm/</guid>
+        <description>&lt;img src="https://gou935.github.io/images/chunithm-sun.jpg" alt="Featured image of post 中二節奏介紹" /&gt;&lt;h4 id=&#34;這篇需要的資料&#34;&gt;這篇需要的資料&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;圖片&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;手套&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;耳機&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;遊戲畫面&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;機台Air範圍&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;16*2  &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;中二節奏chunithm介紹&#34;&gt;中二節奏（CHUNITHM）介紹&lt;/h3&gt;
+&lt;p&gt;中二節奏是由SEGA在（2015年7月16日）推出的音樂遊戲機台&lt;/p&gt;
+&lt;p&gt;也是SEGA的音樂遊戲三機種（&lt;a class=&#34;link&#34; href=&#34;https://dic.pixiv.net/a/%E3%82%B2%E3%82%AD%E3%83%81%E3%83%A5%E3%82%A6%E3%83%9E%E3%82%A4#:~:text=%E3%82%BB%E3%82%AC%E3%81%AE%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E5%90%91%E3%81%91%E3%83%AA%E3%82%BA%E3%83%A0,%E3%83%9E%E3%82%A4%E3%80%8D%E3%81%A8%E3%82%82%E8%A1%A8%E8%A8%98%E3%81%95%E3%82%8C%E3%82%8B%E3%80%82&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ゲキ&lt;strong&gt;チュウ&lt;/strong&gt;マイ&lt;/a&gt;）的チュウニズム&lt;/p&gt;
+&lt;p&gt;國際版則是在&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;金色的機台&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;銀色的機台&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/chunithm-sun.jpg&#34; width=&#34;350&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;機台對比&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;差別在於螢幕刷新率，金色是120fps，而銀色則是60fps簡單的就是畫面會更順暢，&lt;/p&gt;
+&lt;p&gt;譜面也能看的更清楚&lt;/p&gt;
+&lt;p&gt;國際版目前則是銀色的機台（希望哪一天能引進金色機台）&lt;/p&gt;
+&lt;h4 id=&#34;名字的由來&#34;&gt;名字的由來&lt;/h4&gt;
+&lt;p&gt;日文原文的（チュウニズム）是由 （&lt;code&gt;中二&lt;/code&gt;（チュウニ）+&lt;code&gt;節奏&lt;/code&gt;（リズム））合成的&lt;/p&gt;
+&lt;p&gt;所以中二節奏這個翻譯名可以說是簡單又貼切。&lt;/p&gt;
+&lt;h3 id=&#34;遊戲類型&#34;&gt;遊戲類型&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;與其他的音樂遊戲機台相比，相當直覺的下落式音樂遊戲&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;機台特色&#34;&gt;機台特色&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;遊戲最大特色（抬手）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其實有許多很深奧的操作，就以後再介紹吧！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;操作都由觸控板來進行&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;觸控板與手機常用的電容式觸控是不同原理，所以只要是有點重量都可以，注意力道遊玩吧！&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;音符類型&#34;&gt;音符類型&lt;/h3&gt;
+&lt;p&gt;簡單地介紹一下各種音符&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Tap&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hold&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Slide&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Air&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Air crush：與一般的Air沒有什麼區別，大部分是視覺效果&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Flick：只有Master譜面才會出現&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我挺推薦大家把這些音符的名字記著的，這樣如果有問題的時候別人也比較好理解你在說什麼。&lt;/p&gt;
+&lt;h3 id=&#34;觸控板&#34;&gt;觸控板&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;機台機制16*2&lt;/p&gt;
+&lt;p&gt;所以可以實現這樣的譜面（放圖）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;閃鋼&lt;/li&gt;
+&lt;li&gt;夢の始まり&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;新手要如何開始&#34;&gt;新手要如何開始&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如果是已經有音樂遊戲，甚至是&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如果是沒有音樂遊戲的經驗，&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;調整流速————為了看清楚譜面&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;新手適合難度&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Master譜面————&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;新手常見問題&#34;&gt;新手常見問題&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt; &lt;strong&gt;玩中二節奏需要戴手套嗎？&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;結論：戴不戴都可以&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;為什麼需要手套呢？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中二節奏的操作都是由觸控板，&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/touhi.jpg&#34; width=&#34;150&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;STAR的小顆粒指押&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;什麼樣的手套比較好呢？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;適合自己手的大小&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;材質應該要足夠滑順&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/star.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;STAR的小顆粒指押&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;有推薦的手套嗎？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一般常用的有工業手套，尼龍&lt;/p&gt;
+&lt;p&gt;我個人最推薦尼龍手套&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/star.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;STAR的小顆粒指押&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;比起厚且粗糙的工業手套，&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/gunte.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;工業手套&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;那不戴手套玩也有好處嗎？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;沒有了手套的束縛，在需要細緻操作的時候&lt;/p&gt;
+&lt;p&gt;所以，根據&lt;/p&gt;
+&lt;p&gt;還有一點要注意，有些遊戲廳的機台保養做得不好，觸控板會摸起來像砂紙一樣，這種時候為了防止手受傷還是老老實實的戴手套吧！&lt;/p&gt;
+&lt;p&gt;中二&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;一道是什麼？&lt;/p&gt;
+&lt;p&gt;玩完三首就是一道，&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;排隊&lt;/p&gt;
+&lt;p&gt;一般來說如果後方有人排隊的話，一人就是一道輪流&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;耳機&lt;/p&gt;
+&lt;p&gt;音遊機台大多是可以接上耳機遊玩的&lt;/p&gt;
+&lt;p&gt;只要是3.5端子的接頭（我是用蘋果的耳機）&lt;/p&gt;
+&lt;p&gt;要注意的是，即使接上耳機機台聲音也不會消失，這是正常的哦。要調整音量的話可以到遊玩開始前右方的音量設定調整&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;遊戲設定簡單介紹&#34;&gt;遊戲設定簡單介紹&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;設定（歌曲排列）&lt;/p&gt;
+&lt;p&gt;推薦新手依等級分類，可以順著難度&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;音量設定&lt;/p&gt;
+&lt;p&gt;Air很吵——所以我關掉了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;背景設定&lt;/p&gt;
+&lt;p&gt;背景分割——我個人最近偏好無背景&lt;/p&gt;
+&lt;p&gt;加深背景——個人喜好&lt;/p&gt;
+&lt;p&gt;擋板——至於這有什麼用就以後再寫吧！&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;参考資料&#34;&gt;参考資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%82%A6%E3%83%8B%E3%82%BA%E3%83%A0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;chunithm wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dic.pixiv.net/a/%E3%82%B2%E3%82%AD%E3%83%81%E3%83%A5%E3%82%A6%E3%83%9E%E3%82%A4#:~:text=%E3%82%BB%E3%82%AC%E3%81%AE%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E5%90%91%E3%81%91%E3%83%AA%E3%82%BA%E3%83%A0,%E3%83%9E%E3%82%A4%E3%80%8D%E3%81%A8%E3%82%82%E8%A1%A8%E8%A8%98%E3%81%95%E3%82%8C%E3%82%8B%E3%80%82&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ゲキチュウマイ (げきちゅうまい)とは【ピクシブ百科事典】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>認識街機音遊</title>
+        <link>https://gou935.github.io/post/arcade_rhythm_game/</link>
+        <pubDate>Tue, 14 Mar 2023 16:33:54 +0800</pubDate>
+        
+        <guid>https://gou935.github.io/post/arcade_rhythm_game/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>音樂遊戲用語</title>
+        <link>https://gou935.github.io/post/rg_term/</link>
+        <pubDate>Mon, 27 Feb 2023 11:10:28 +0800</pubDate>
+        
+        <guid>https://gou935.github.io/post/rg_term/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>SOS AJ解說</title>
+        <link>https://gou935.github.io/post/sos_last/</link>
+        <pubDate>Sun, 19 Feb 2023 23:54:34 +0800</pubDate>
+        
+        <guid>https://gou935.github.io/post/sos_last/</guid>
+        <description>&lt;img src="https://gou935.github.io/images/sos.jpg" alt="Featured image of post SOS AJ解說" /&gt;&lt;h3 id=&#34;前言&#34;&gt;前言&lt;/h3&gt;
+&lt;p&gt;這篇文本來是想測試一下影片播放功能，但好像有版權問題不能直接播放。就順便寫個解說&lt;/p&gt;
+&lt;h3 id=&#34;譜面分析&#34;&gt;譜面分析&lt;/h3&gt;
+&lt;p&gt;(SON OF SUN)以下簡稱SOS&lt;/p&gt;
+&lt;p&gt;關於SOS的譜面，我會說對於大部分有R16左右地力的人來講，整體上並沒有太多複雜的部分，所以這篇我主要會講解尾殺的部分。&lt;/p&gt;
+&lt;h3 id=&#34;平地部分&#34;&gt;平地部分&lt;/h3&gt;
+&lt;p&gt;像剛剛說的，平地的部分我覺得沒有什麼好講的，但還是有一些地方可以稍微提一下。
+在第61小節開始的配置：
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/61measure.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;61小節配置&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+由於slide的配置過於傾斜，移動判定會消失。因此只要完成&lt;strong&gt;始點&lt;/strong&gt;以及&lt;strong&gt;keep&lt;/strong&gt;的判定就可以了。換句話說，左手打tap、右手按住就可以完成判定。
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/61measure2.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;右手按住&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;尾殺部分&#34;&gt;尾殺部分&lt;/h3&gt;
+&lt;p&gt;尾殺的認識難部分，讓許多玩家在這裡噴掉大部分分數&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;能不能上SSS就看這裡了&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一般來說，尾殺的攻略手法分為三種&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;左右交互正攻打法&lt;/li&gt;
+&lt;li&gt;左右手拆分打法&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;全押&lt;/del&gt;(8分)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我是採用第2種打法
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/77measure.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;77小節配置&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+在尾殺的部分，因為音符最小只有分隔到四分之一大小，所以可以用右手打右側3/4部分；左手打剩餘的1/4部分。
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/77measure2.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;四分分割&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+實際上的按鍵配置大概是像這樣。(&lt;strong&gt;左手藍色、右手紅色&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;左手負責Air以及最左側的音符，右手則負責右側3/4的音符。
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/77measure3.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;按鍵配置&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+至於打的節奏則是左手四分音符 右手八分音符的節奏。
+如果你不太確定四分音符以及八分音符的意思的話，你除了可以上網查之外，我也可以試著做一個說明。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;X分音符代表著該音符&lt;strong&gt;相對於全音符的時長&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;假設以四分音符為一拍，八分音符則為四分音符的&lt;strong&gt;一半時長&lt;/strong&gt;；這也表示八分音符打的&lt;strong&gt;速度會是四分音符的2倍&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;拍號是設定拍子的符號，以分數的形式寫出。分母為設定單位拍，分子為每小節單位拍數量   例: 4/4表示以四分音符為一拍，一個小節有四拍&lt;/li&gt;
+&lt;li&gt;以(SOS)BPM200、4/4四四拍的曲子為例：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;以四分音符為一拍，一個小節有四拍；也就是&lt;strong&gt;一個小節會有四個四分音符(上圖藍色的部分)&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;而八分音符為四分音符的一半時長；換句話說，&lt;strong&gt;2個八分音符等於一個四分音符(上圖紅色部分)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;實際遊玩的時候因為譜面視覺上的影響比我想像中的大，所以到最後我是稍微把視線移開螢幕，主要靠節奏來打(雖然中間有點亂掉)。&lt;/p&gt;
+&lt;h4 id=&#34;一些小細節&#34;&gt;一些小細節&lt;/h4&gt;
+&lt;p&gt;我覺得還可以注意的一點是77小節開始是左手啟動並且要抬手，這容易造成右手節奏錯亂；所以即便右手第一拍沒有音符我還是會一起按下去。
+這在日文中有一個詞叫「&lt;strong&gt;空打ち&lt;/strong&gt;」，意思就是在沒有音符的地方空打來維持節奏。
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/77measure4.jpg&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;尾殺一開始&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;手元影片&#34;&gt;手元影片&lt;/h3&gt;
+&lt;p&gt;最後，歡迎在YouTube上看看手元影片&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=y6NvEOot6Qw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Youtube連結&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/sosaj.jpg&#34; width=&#34;640&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://sdvx.in/chunithm/05/05079mst.htm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;譜面保管所&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>[CHUNITHM] 一篇文章告訴你如何計算R值（Rating）!</title>
         <link>https://gou935.github.io/post/rating/</link>
         <pubDate>Fri, 17 Feb 2023 12:49:29 +0800</pubDate>
@@ -160,6 +919,128 @@ R 值的計算公式是：&lt;/p&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://chunithm.sega.com/music/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;CHUNITHM International ver. website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>中二節奏完全指南</title>
+        <link>https://gou935.github.io/post/chunithm_guide/</link>
+        <pubDate>Thu, 16 Feb 2023 19:57:23 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/chunithm_guide/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>我的音遊經歷</title>
+        <link>https://gou935.github.io/post/rg_history/</link>
+        <pubDate>Thu, 16 Feb 2023 13:26:27 +0800</pubDate>
+        
+        <guid>https://gou935.github.io/post/rg_history/</guid>
+        <description>&lt;img src="https://gou935.github.io/images/arcade2.jpeg" alt="Featured image of post 我的音遊經歷" /&gt;&lt;p&gt;我的音遊經歷從（2021/1月～2023/2月）算起來大概2年。
+但準確來講應該不止2年，至於為什麼就繼續看下去吧！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;這篇文章不會詳細的介紹遊戲內容&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;樂動達人2011&#34;&gt;樂動達人(2011?)&lt;/h3&gt;
+&lt;p&gt;我小學的時候因為家庭工作的關係，全家在中國大陸住了很長一段時間。那時候住的地方有一戶人家總是在寒暑假的時候才會從台灣來，所以我寒暑假基本上都是和那一家的同齡小孩一起玩。
+記得在那個智慧型手機還不成熟的年代，他們家竟然有一台ipad。所以大部分時候其實就是一起玩電腦和ipad。&lt;/p&gt;
+&lt;p&gt;樂動達人是一款3k、4k的音遊
+可以玩到周杰倫、蔡依林、動力火車；雖然這款遊戲放到現在來看的話就是款盜版音樂遊戲，但至少在我的印象中是挺好玩的，至於版權就&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;deemo2013&#34;&gt;Deemo（2013）&lt;/h3&gt;
+&lt;p&gt;剛上國中的我什麼手機音遊的時候 Deemo是我第一個課金購買的手機遊戲（60元我還記得）&lt;/p&gt;
+&lt;p&gt;。那時候班上有一位鋼琴很厲害的同學正好也有玩，所以只要到放學我們就會一起玩Deemo。如果你也有玩過1.0版本的Deemo的話。在這之後到大學為止基本上就沒有碰過音遊了。&lt;/p&gt;
+&lt;h3 id=&#34;deemo20211月&#34;&gt;Deemo（2021/1月）&lt;/h3&gt;
+&lt;h3 id=&#34;arcaea2021-2月&#34;&gt;Arcaea（2021 2月）&lt;/h3&gt;
+&lt;p&gt;從2021年2月開始
+斷斷續續的玩也不知不覺就2年了，我經常放置的一款遊戲&lt;del&gt;一放放半年&lt;/del&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/timescore.jpg&#34; width=&#34;500&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;一放放半年&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/ptt12.jpg&#34; width=&#34;500&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;Arcaea ptt12.00達成&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;chunithm2021-3月&#34;&gt;CHUNITHM（2021 3月）&lt;/h3&gt;
+&lt;p&gt;（CHUNITHM）是我第一款接觸的街機音遊，從Paradise開始玩（&lt;!-- raw HTML omitted --&gt;這邊可以插入paradise的初期登入音樂&lt;!-- raw HTML omitted --&gt;）。所以這個部落格應該會先寫幾篇關於中二的文。
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/arcade.jpeg&#34; width=&#34;230&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/rating-jp.jpg&#34; width=&#34;360&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;日版&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/rating-eng.jpg&#34; width=&#34;360&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;國際版&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;sound-voltex2021-4月&#34;&gt;SOUND VOLTEX（2021 4月）&lt;/h3&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/sdvx56.jpg&#34; width=&#34;360&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;(左)Exceed Gear(右)Vivid Wave&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+簡稱&lt;a class=&#34;link&#34; href=&#34;https://p.eagate.573.jp/game/sdvx/vi/index.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;SDVX&lt;/strong&gt;&lt;/a&gt;。日本則是叫（ボルテ）比較多，目前最新的版本為第六代（Exceed Gear）。雖然我剛剛才說CHUNITHM是我玩最多的音遊，但我得說不管是操作性還是整體設計上我都更喜歡SDVX。特別是東方的改編曲相當的多也是打中我的一點。
+下一個目標是成為&lt;a class=&#34;link&#34; href=&#34;https://zh.moegirl.org.cn/%E5%88%9A%E5%8A%9B%E7%BD%97&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;剛力羅(ゴリラ)&lt;/strong&gt;&lt;/a&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/sdvxprofile.jpg&#34; width=&#34;520&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;SDVX Profile&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;其他有興趣的音遊&#34;&gt;其他有興趣的音遊&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Jubeat&lt;/li&gt;
+&lt;li&gt;太鼓の達人&lt;/li&gt;
+&lt;li&gt;音擊（オンゲキ）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;可能目前沒那麼有興趣的遊戲&#34;&gt;可能目前沒那麼有興趣的遊戲？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;del&gt;MaiMai玩的次數應該10根手指就數得出來&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://zh.wikipedia.org/zh-tw/SOUND_VOLTEX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;SDVXwiki&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>部落格介紹 ！！</title>
+        <link>https://gou935.github.io/post/why-blog/</link>
+        <pubDate>Thu, 16 Feb 2023 13:14:57 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/why-blog/</guid>
+        <description>&lt;h3 id=&#34;這個部落格是什麼&#34;&gt;這個部落格是什麼？&lt;/h3&gt;
+&lt;p&gt;可以到側邊欄的「關於我」看更多資訊哦！&lt;/p&gt;
+&lt;h3 id=&#34;這個部落格是怎麼架設的&#34;&gt;這個部落格是怎麼架設的？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;為什麼要自架一個blog&#34;&gt;為什麼要自架一個Blog？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;巴哈、痞客邦、無名小站————網站不是永久的&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;統整資訊——音樂遊戲不是一門有長久發展的學問，多半靠的是玩家間的分享，網上查不到什麼資料&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;專注在內容——facebook、twitter&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;部落格功能介紹&#34;&gt;部落格功能介紹&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;搜尋功能&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tag&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;heading&#34;&gt;&lt;/h3&gt;
 </description>
         </item>
         

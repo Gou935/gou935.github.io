@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>tech on Gou935.com</title>
+        <link>https://gou935.github.io/categories/tech/</link>
+        <description>Recent content in tech on Gou935.com</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Tue, 20 Jun 2023 15:24:42 +0900</lastBuildDate><atom:link href="https://gou935.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>RSS</title>
+        <link>https://gou935.github.io/post/rss/</link>
+        <pubDate>Tue, 20 Jun 2023 15:24:42 +0900</pubDate>
+        
+        <guid>https://gou935.github.io/post/rss/</guid>
+        <description>&lt;img src="https://gou935.github.io/images/rss.jpg" alt="Featured image of post RSS" /&gt;&lt;h2 id=&#34;什麼是rss&#34;&gt;什麼是RSS？&lt;/h2&gt;
+&lt;h2 id=&#34;rss有什麼用&#34;&gt;RSS有什麼用？&lt;/h2&gt;
+&lt;p&gt;你有沒有這種經驗？每次看到喜歡的網站就加到資料夾，想著更新內容的時候可以看看，但下一次再打開它已經是幾百年後的事了。&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.github.io/images/screenshot.jpg&#34;
+         alt=&#34;我的桌面&#34; width=&#34;700&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;我的桌面&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;rss原理&#34;&gt;RSS原理&lt;/h3&gt;
+&lt;h3 id=&#34;要訂閱rss需要什麼&#34;&gt;要訂閱RSS需要什麼？&lt;/h3&gt;
+&lt;h3 id=&#34;推薦的rss服務&#34;&gt;推薦的RSS服務&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://feedly.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Feedly&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;線上服務&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;免費&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;但如果要訂閱多個RSS需要付月費&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;多平台使用&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://netnewswire.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NetNesWire&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Open source&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不用擔心突然倒閉&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;免費&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;macOS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;介面乾淨&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;歡迎訂閱我的網站喔&#34;&gt;歡迎訂閱我的網站喔！&lt;/h3&gt;
+&lt;p&gt;Gou935.com也提供了RSS的訂閱服務，只要照著剛剛的步驟，&lt;/p&gt;
+&lt;p&gt;就可以訂閱我的網站。&lt;/p&gt;
+&lt;p&gt;從今以後，你就不需要再，更新會自動通知喔。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;趕快去使用看看吧！&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
