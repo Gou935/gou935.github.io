@@ -355,7 +355,7 @@ if (!doNotTrack) {
             <nav id="TableOfContents">
   <ol>
     <li><a href="#關於這個-blog">關於這個 Blog</a></li>
-    <li><a href="#關於我">關於我</a></li>
+    <li><a href="#我是誰">我是誰？</a></li>
     <li><a href="#怎麼聯繫我">怎麼聯繫我？</a></li>
   </ol>
 </nav>
@@ -422,25 +422,23 @@ if (!doNotTrack) {
 <p>這個 Blog 是用<a class="link" href="https://gohugo.io/"  target="_blank" rel="noopener"
     >Hugo</a>架設的，基本上就是我個人的部落格。</p>
 <p>內容包括遊戲、音樂等任何我有興趣的事。</p>
-<p>目前還有很多技術上的問題要解決，可能需要一些時間佈置。</p>
-<h3 id="關於我">關於我</h3>
-<p>目前是一名大學生，主修經濟學。</p>
+<p>目前這個網站還有許多功能要測試，但本人程式能力不夠，之後會慢慢完善內容。</p>
+<h3 id="我是誰">我是誰？</h3>
+<p>一名普通的大學生，主修經濟學</p>
+<p>喜歡遊戲和音樂還有迷因（？）</p>
+<p>現在的目標是提升自己的程式能力，完成想做的事。</p>
 <h3 id="怎麼聯繫我">怎麼聯繫我？</h3>
-<p>作為一名普通玩家我不能保證所有資訊來源都是正確的，所以如果你有任何的問題，或是想找我的話請用以下的方式聯繫我：</p>
+<p>作為一名普通人我不能保證所有資訊來源都是正確的，所以如果你有任何的問題，或是想找我的話請用以下的方式聯繫我：</p>
 <ul>
 <li>
 <p>Email：gou935@outlook.com</p>
 </li>
 <li>
-<p><a class="link" href="https://github.com/Gou935"  target="_blank" rel="noopener"
-    >Github</a></p>
-</li>
-<li>
 <p>我的<a class="link" href="https://twitter.com/Gou935"  target="_blank" rel="noopener"
     >twitter</a></p>
-<p>我會盡力回答的！！</p>
 </li>
 </ul>
+<p>我會盡力回答的！！</p>
 
 </section>
 
@@ -485,6 +483,48 @@ if (!doNotTrack) {
      
     
         
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script type="application/javascript">
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "hugo-theme-stack" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
     
 
     <footer class="site-footer">
