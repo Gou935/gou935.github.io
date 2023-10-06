@@ -6,7 +6,15 @@
         <description>Recent content on Gou935.com</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Tue, 21 Mar 2023 23:54:34 +0800</lastBuildDate><atom:link href="https://gou935.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 01 Oct 2023 13:51:11 +0900</lastBuildDate><atom:link href="https://gou935.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>爵士鼓教室《ドラム義塾》課程體驗</title>
+        <link>https://gou935.com/post/drumgijuku/</link>
+        <pubDate>Sun, 01 Oct 2023 13:51:11 +0900</pubDate>
+        
+        <guid>https://gou935.com/post/drumgijuku/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>SOS AJ解說</title>
         <link>https://gou935.com/post/sos_last/</link>
         <pubDate>Tue, 21 Mar 2023 23:54:34 +0800</pubDate>
@@ -490,10 +498,12 @@ R 值的計算公式是：&lt;/p&gt;
         <description>&lt;h3 id=&#34;關於這個-blog&#34;&gt;關於這個 Blog&lt;/h3&gt;
 &lt;p&gt;這個 Blog 是用&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Hugo&lt;/a&gt;架設的，基本上就是我個人的部落格。&lt;/p&gt;
-&lt;p&gt;內容包括遊戲、音樂等任何我有興趣的事。&lt;/p&gt;
+&lt;p&gt;內容包括遊戲、音樂等任何我有興趣的事，偶爾也會當日記記錄一下生活。&lt;/p&gt;
 &lt;p&gt;目前還有很多技術上的問題要解決，可能需要一些時間完善。&lt;/p&gt;
+&lt;p&gt;如果你也想知道如何用Hugo架設這樣的Blog，你可以看這篇。&lt;/p&gt;
 &lt;h3 id=&#34;關於我&#34;&gt;關於我&lt;/h3&gt;
 &lt;p&gt;一名普通的大學生，主修經濟學。&lt;/p&gt;
+&lt;p&gt;喜歡遊戲、音樂、迷因（？）&lt;/p&gt;
 &lt;h3 id=&#34;怎麼聯繫我&#34;&gt;怎麼聯繫我？&lt;/h3&gt;
 &lt;p&gt;作為一名普通人我不能保證所有資訊來源都是正確的，所以如果你有任何的問題，或是想找我的話請用以下的方式聯繫我：&lt;/p&gt;
 &lt;ul&gt;
