@@ -129,8 +129,6 @@ draft: flase
 
 我個人最推薦尼龍手套
 
-
-
 {{< figure src="/images/star.jpg" title="STAR的小顆粒指押" width="250">}}
 
 比起厚且粗糙的工業手套，

@@ -1,6 +1,6 @@
 ---
 title: "[CHUNITHM] 一篇文章告訴你如何計算R值（Rating）!"
-date: 2023-02-17T12:49:29+08:00
+date: 2023-03-16T12:49:29+08:00
 description: 第一篇廢文～
 categories: CHUNITHM
 tags: ["CHUNITHM", "中二節奏","中二"]

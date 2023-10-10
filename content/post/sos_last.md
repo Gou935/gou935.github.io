@@ -1,6 +1,6 @@
 ---
 title: "SOS AJ解說"
-date: 2023-02-19T23:54:34+08:00
+date: 2023-03-21T23:54:34+08:00
 tag-cloud: CHUNITHM
 image: images/sos.jpg
 draft: true
