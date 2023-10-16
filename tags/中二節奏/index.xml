@@ -6,111 +6,288 @@
         <description>Recent content in 中二節奏 on Gou935.com</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Tue, 14 Mar 2023 17:14:58 +0800</lastBuildDate><atom:link href="https://gou935.com/tags/%E4%B8%AD%E4%BA%8C%E7%AF%80%E5%A5%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Oct 2023 23:59:01 +0900</lastBuildDate><atom:link href="https://gou935.com/tags/%E4%B8%AD%E4%BA%8C%E7%AF%80%E5%A5%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>一篇文章告訴你如何計算R值（Rating）!</title>
+        <link>https://gou935.com/post/rating/</link>
+        <pubDate>Wed, 11 Oct 2023 23:59:01 +0900</pubDate>
+        
+        <guid>https://gou935.com/post/rating/</guid>
+        <description>&lt;img src="https://gou935.com/images/irodorimidori.jpg" alt="Featured image of post 一篇文章告訴你如何計算R值（Rating）!" /&gt;&lt;p&gt;你有沒有曾經聽過其他人在討論譜面時常常提到一些數字但聽得一頭霧水，例如 14.5、13.6～&lt;/p&gt;
+&lt;p&gt;這篇文章我要來告訴你一些應該知道的詞：&lt;strong&gt;譜面定數&lt;/strong&gt;、&lt;strong&gt;B30&lt;/strong&gt;和&lt;strong&gt;R10&lt;/strong&gt;，並且告訴你怎麼計算自己的R值。&lt;/p&gt;
+&lt;h3 id=&#34;為什麼要知道這些&#34;&gt;為什麼要知道這些？&lt;/h3&gt;
+&lt;p&gt;這篇文章主要是寫給新手玩家或者是不清楚Rating是怎麼計算的人，了解R值計算對於選擇遊玩的曲目很有幫助。文中會用到一些好用的工具來說明，還沒用過的人趕快一起用看看吧！&lt;/p&gt;
+&lt;h3 id=&#34;譜面定数&#34;&gt;譜面定数&lt;/h3&gt;
+&lt;p&gt;在知道如何計算 R 值之前，我們要先知道什麼是&amp;mdash;&amp;mdash;&amp;mdash;譜面定數&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;譜面定數是將&lt;strong&gt;譜面難度細分至小數點後第一位&lt;/strong&gt;的數值&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;同樣難度標示的曲子，實際上還有一個隱藏數值來細分難度，那就是譜面定數。&lt;/p&gt;
+&lt;p&gt;例如說：&lt;/p&gt;
+&lt;p&gt;下面這首（天空カフェテリア）的 Master 難度標示為 12，但實際上的隱藏數值是（12.2）&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/usagi.jpg&#34;
+         alt=&#34;點兔香香&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;（12.2）&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;而另一首（ごまかし）的 Master 難度標示同樣為 12，但實際上的隱藏數值是（12.1）&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/gomakashi.jpg&#34;
+         alt=&#34;神曲&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;（12.1）&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;還有像是這首12+，譜面定數為（12.9）：&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/redeyes.jpg&#34;
+         alt=&#34;赤瞳&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;（12.9）&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;像這樣子譜面定數&lt;code&gt;12.(0~4)&lt;/code&gt;標示為 12；&lt;code&gt;12.(5~9)&lt;/code&gt;則標示為 12+就是譜面等級的分類規則。
+其他等級以此類推。 &lt;strong&gt;要注意的是這個數值並不代表譜面的絕對難度，只是用來計算成績的數值。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;你可以在 &lt;a class=&#34;link&#34; href=&#34;https://wikiwiki.jp/chunithmwiki/CHUNITHM%20SUN%20%E6%A5%BD%E6%9B%B2%E4%B8%80%E8%A6%A7%28%E5%AE%9A%E6%95%B0%E9%A0%861%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;日版 wiki&lt;/a&gt;上找到各首曲子的譜面定數&lt;/p&gt;
+&lt;h3 id=&#34;成績定數&#34;&gt;成績定數&lt;/h3&gt;
+&lt;p&gt;成績定數是計算一首曲子遊玩後單曲成績的計算規則&lt;/p&gt;
+&lt;p&gt;表格中列出了拿到各種成績時的計算方法&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/ratingformula.jpg&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;成績定數表1&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/ratingformula2.jpg&#34; width=&#34;400&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;成績定數表2&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;單曲-r-值計算方法&#34;&gt;單曲 R 值計算方法&lt;/h3&gt;
+&lt;p&gt;單曲R值是你玩完一首曲子後會獲得的R值成績&lt;/p&gt;
+&lt;p&gt;它是由剛剛提到的&lt;code&gt;譜面定數&lt;/code&gt;和&lt;code&gt;成績定數&lt;/code&gt;算出來的&lt;/p&gt;
+&lt;p&gt;我們直接來看一個例子&lt;/p&gt;
+&lt;p&gt;例如說：&lt;/p&gt;
+&lt;p&gt;譜面定數 12.2 的（天空カフェテリア）拿到了 1,008,500（SSS）的分數，單曲的成績是多少？&lt;/p&gt;
+&lt;p&gt;結合 👆 成績定數表 1 和 2 的規則也就是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SSS 譜面定數+2.0&lt;/strong&gt;以及（1,007,500~1,008,999）&lt;strong&gt;每 100 點+0.01&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;得出 12.2+2.0+（1000/100）* 0.01 = 14.30&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;這樣就算出來這一首的單曲R值為&lt;strong&gt;14.30&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;r-值的構成&#34;&gt;R 值的構成&lt;/h3&gt;
+&lt;p&gt;理解了單曲 R 值的計算後，來看看 R 值的構成吧！&lt;/p&gt;
+&lt;p&gt;R 值（Rating）是由&lt;code&gt;B30&lt;/code&gt;以及&lt;code&gt;R10&lt;/code&gt;的單曲 R 值所組成的&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;B30（Best30）是&lt;strong&gt;所有遊玩&lt;/strong&gt;的曲子中&lt;strong&gt;單曲 R 值最高的 30 首&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;R10（Recent10）是&lt;strong&gt;近期遊玩&lt;/strong&gt;的 30 首曲子中&lt;strong&gt;單曲 R 值最高的 10 首&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;嗯～可能有一點抽象，我們直接用查分器來看吧！
+這邊使用的是 Dogeon 做的&lt;a class=&#34;link&#34; href=&#34;https://dogeon188.github.io/chuni-tools/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;查分器&lt;/a&gt;來說明&lt;/p&gt;
+&lt;h4 id=&#34;best30&#34;&gt;Best30&lt;/h4&gt;
+&lt;p&gt;成功啟動查分器後你可以看到以單曲 R 值排列的表格。在每一首曲子的最右邊顯示著相應成績所計算出來的單曲 R 值。
+1 ～ 30 的曲子就是你的 B30，而右上角還有顯示 B30 的平均為: （16.1767）&lt;/p&gt;
+&lt;p&gt;B30 是組成 R 值的重要部分，因為 B30 只要成功更新後就不會再下降，相當於是 R 值的根本。但因為 B30 中&lt;strong&gt;同一曲子的成績只會計算一次不會重複&lt;/strong&gt;，所以要想提高 B30 的話就得要不斷挑戰更高定數的新曲子或是拉高現有的分數；可以說提高 B30 就是提高自己 R 值的上限。&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/best30.jpg&#34; width=&#34;460&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;我的B30（雖然只截到15）&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;recent10&#34;&gt;Recent10&lt;/h4&gt;
+&lt;p&gt;而點選到 Recent 頁面你就可以看到 R10 了。同樣的右上角顯示 R10 平均為: （16.3050）&lt;/p&gt;
+&lt;p&gt;R10 代表著你近期的表現，不像 B30；R10 會隨著近期的表現不斷更新，這表示 R 值會隨著 R10 的浮動而升降（&lt;del&gt;你會掉R就是因為它&lt;/del&gt;）。
+由於 R10&lt;strong&gt;可以重複計入&lt;/strong&gt;，因此 R10 全是同一首曲的情況也是可以的。（就連續打直到R10被填滿）&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/recent10.jpg&#34; width=&#34;460&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;我的R10&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;r-值的計算方法&#34;&gt;R 值的計算方法～&lt;/h3&gt;
+&lt;p&gt;了解以上的事情之後，我們&lt;del&gt;終於&lt;/del&gt;可以來看看如何計算 R 值了。
+R 值的計算公式是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Rating = （Best30 平均 *30 + Recent10 平均 *10） / 40&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;嗯～雖然我說要自己算但👇&lt;/p&gt;
+&lt;h3 id=&#34;一些好用的工具&#34;&gt;一些好用的工具&lt;/h3&gt;
+&lt;p&gt;在這裡我要介紹一下chunirec的計算工具&lt;/p&gt;
+&lt;h4 id=&#34;chunirec是什麼&#34;&gt;chunirec是什麼？&lt;/h4&gt;
+&lt;p&gt;chunirec你可以理解為&lt;strong&gt;中二節奏日版非官方查分器&lt;/strong&gt;（就像上面的查分器一樣）但網站除了查分功能以外，還有許多有用的小工具。&lt;/p&gt;
+&lt;p&gt;像是這個&lt;a class=&#34;link&#34; href=&#34;https://chunirec.net/tools/calc/play-rating&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;單曲 R 值計算工具&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;只要輸入曲名和分數就可以輕鬆算出單曲R值
+&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/ratingcaculate.jpg&#34; width=&#34;500&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;單曲R值為14.30&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;又或是這個&lt;a class=&#34;link&#34; href=&#34;https://chunirec.net/tools/calc/rating-simu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Rating 計算器&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;只要輸入 B30 平均和 R10 平均就可以輕鬆的算出 R 值
+&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/ratingsimulator.jpg&#34; width=&#34;500&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;由上面的圖計算出R值為16.20&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;其他還有像是&lt;a class=&#34;link&#34; href=&#34;https://chunirec.net/tools/calc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;這些工具&lt;/a&gt;，每個都可以試看看。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;知道這些到底可以做什麼&#34;&gt;知道這些到底可以做什麼？&lt;/h3&gt;
+&lt;p&gt;了解 R 值計算的知識最大的用處就是知道&lt;strong&gt;該打什麼曲子&lt;/strong&gt;。
+新手玩家常常會搞不懂為什麼 R 值會忽高忽低；又為什麼打這首曲子會升 R ，下次打又不會升了呢？
+這些都是了解 Rating 機制之後就可以知道原因的事。&lt;/p&gt;
+&lt;h3 id=&#34;一些應用情境&#34;&gt;一些應用情境&lt;/h3&gt;
+&lt;h4 id=&#34;適合升-r值-的曲子該怎麼選&#34;&gt;適合升 R值 的曲子該怎麼選？&lt;/h4&gt;
+&lt;p&gt;參考上面成績定數表的地方，拿到 1,007,500（SSS）評分的話&lt;strong&gt;譜面定數+2&lt;/strong&gt;是效率最好的升 R 指數，這也是為什麼你會看到許多人都以拿到（SSS）也就是「鳥」為目標； 而再往上即使拿到 1,009,000（SSS+）也只會再加 0.15 的成績定數。因此以升 R 的角度來看的話，不必執著於 FC 以及 AJ 是比較好的。&lt;/p&gt;
+&lt;h4 id=&#34;如果我想短時間內提高我的r值該怎麼做&#34;&gt;如果我想短時間內提高我的R值該怎麼做？&lt;/h4&gt;
+&lt;p&gt;只要提高你的R10平均就可以了。用查分器看你的R10中有沒有單曲R值高於自己B30平均而且擅長的曲子，接著就不停地刷來提高R10平均；但理所當然的，一旦你不再刷了，R10的平均就會掉下來，R值也會下降。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;這邊只要理解到R值掉下來並不代表你打爛了，而是R10在變動而已&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;最後&#34;&gt;最後&lt;/h3&gt;
+&lt;p&gt;如果你現在是一位以彩 R（16.00）為目標的玩家，但對於提升 R 值&lt;strong&gt;毫無頭緒&lt;/strong&gt;的話。你可以選一些低於自己現在 R 值定數-2 左右的曲子作為主要練習對象，並以拿到（SSS）為目標。&lt;/p&gt;
+&lt;p&gt;例如：R 值（15.70）的人可以用這樣的安排做練習&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;選譜面定數 13.（7~9）作為主要練習對象&lt;/li&gt;
+&lt;li&gt;選一兩首 14.（0~2），用意是習慣新的配置&lt;/li&gt;
+&lt;li&gt;喜歡的歌或者是沒打過的曲子&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;至於要怎麼安排就看你啦！&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;参考資料&#34;&gt;参考資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://wikiwiki.jp/chunithmwiki/%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%BBOVER%20POWER#cc5f6214&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Rating 計算日版 wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://home.gamer.com.tw/artwork.php?sn=5398406&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;巴哈文章&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://chunirec.net/tools/calc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;chunirec 計算工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://chunithm.sega.com/music/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CHUNITHM International ver. website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>中二節奏介紹</title>
         <link>https://gou935.com/post/chunithm/</link>
         <pubDate>Tue, 14 Mar 2023 17:14:58 +0800</pubDate>
         
         <guid>https://gou935.com/post/chunithm/</guid>
         <description>&lt;img src="https://gou935.com/post/chunithm/img/chunithm-sun.jpg" alt="Featured image of post 中二節奏介紹" /&gt;&lt;h3 id=&#34;前言為什麼要寫這一篇&#34;&gt;前言：為什麼要寫這一篇？&lt;/h3&gt;
-&lt;p&gt;其實關於中二節奏（CHUNITHM）的介紹文章不管是wiki還是其他論壇都有簡單的介紹了。但還是有一些比較少被介紹的地方，所以這一篇會是我覺得有趣而且重要的一些中二小知識。&lt;/p&gt;
+&lt;p&gt;其實關於中二節奏（CHUNITHM）的介紹文章不管是wiki還是其他論壇都有簡單的介紹了。但還是有一些比較少被介紹的地方，所以這一篇會是我覺得&lt;strong&gt;有趣&lt;/strong&gt;而且&lt;strong&gt;重要&lt;/strong&gt;的一些中二小知識。不過在那之前，還是先簡單介紹一下這個遊戲。&lt;/p&gt;
 &lt;h3 id=&#34;中二節奏chunithm介紹&#34;&gt;中二節奏（CHUNITHM）介紹&lt;/h3&gt;
-&lt;p&gt;中二節奏是由 SEGA 在（2015年7月16日）推出的音樂遊戲機台&lt;/p&gt;
-&lt;p&gt;國際版則是在（2020年11月26日）推出。&lt;/p&gt;
+&lt;p&gt;中二節奏是由 SEGA遊戲公司推出的音樂遊戲機台&lt;/p&gt;
+&lt;p&gt;稼動日期如下：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;日版&lt;/th&gt;
+&lt;th&gt;國際版&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2015/7/16&lt;/td&gt;
+&lt;td&gt;2020/11/26&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;名字的由來&#34;&gt;名字的由來&lt;/h4&gt;
+&lt;p&gt;日文原文的（チュウニズム）是由 （&lt;code&gt;中二&lt;/code&gt;（チュウニ）+&lt;code&gt;節奏&lt;/code&gt;（リズム））合成的造語&lt;/p&gt;
+&lt;p&gt;所以中二節奏這個翻譯名可以說是簡單又直接。&lt;/p&gt;
+&lt;h3 id=&#34;機台外觀&#34;&gt;機台外觀&lt;/h3&gt;
+&lt;p&gt;目前中二節奏的機台類型分為兩種，金色和銀色的機台。&lt;/p&gt;
 &lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;img/chunithm-sun.jpg&#34; width=&#34;320&#34; height=&#34;640&#34;/&gt;&lt;figcaption&gt;
             &lt;h4&gt;機台對比&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;目前中二節奏的機台類型有兩種，金色和銀色的機台。&lt;/p&gt;
 &lt;p&gt;想要簡單了解有什麼不一樣的話可以看下面的表格。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;金色&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;銀色&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;金色&lt;/th&gt;
+&lt;th&gt;銀色&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;螢幕刷新率&lt;/strong&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;120fps&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;60fps&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;螢幕更新率&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;120fps&lt;/td&gt;
+&lt;td&gt;60fps&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;稼働地域&lt;/strong&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;僅限日本&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;日本、海外&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;稼働地域&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;僅限日本&lt;/td&gt;
+&lt;td&gt;日本、海外&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;電子支付&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;O&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;最大的差別就在螢幕刷新率，金色是 120fps，而銀色則是 60fps 。&lt;/p&gt;
-&lt;p&gt;簡單的就是畫面會更順暢，譜面也能看的更清楚。&lt;/p&gt;
-&lt;p&gt;海外國際版目前則一律是銀色的機台。（希望哪一天能引進金色機台）&lt;/p&gt;
-&lt;h4 id=&#34;名字的由來&#34;&gt;名字的由來&lt;/h4&gt;
-&lt;p&gt;日文原文的（チュウニズム）是由 （&lt;code&gt;中二&lt;/code&gt;（チュウニ）+&lt;code&gt;節奏&lt;/code&gt;（リズム））合成的造語&lt;/p&gt;
-&lt;p&gt;所以中二節奏這個翻譯名可以說是簡單又直接。&lt;/p&gt;
-&lt;h3 id=&#34;遊戲類型&#34;&gt;遊戲類型&lt;/h3&gt;
+&lt;p&gt;其中最大的差別就在&lt;strong&gt;螢幕更新率&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;簡單說明的話就是120fps的畫面會更順暢，譜面也能看的更清楚。&lt;/p&gt;
+&lt;p&gt;海外國際版目前一律是銀色的機台。（希望哪一天能引進金色機台）&lt;/p&gt;
+&lt;h4 id=&#34;對了-長得很像atm&#34;&gt;對了 長得很像ATM&lt;/h4&gt;
+&lt;figure&gt;&lt;img src=&#34;img/atm.jpg&#34; width=&#34;350&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;觸控板和感應器&#34;&gt;觸控板和感應器&lt;/h3&gt;
+&lt;p&gt;這個遊戲最大的特色&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;與其他的音樂遊戲機台相比，相當直覺的下落式音樂遊戲&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;機台特色&#34;&gt;機台特色&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;遊戲最大特色（抬手）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;其實有許多很深奧的操作，就以後再介紹吧！&lt;/p&gt;
-&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;機台兩側有感應器可以感應物體有沒有移動&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;操作都由觸控板來進行&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;觸控板與手機常用的電容式觸控是不同原理，所以只要是有點重量都可以，注意力道遊玩吧！&lt;/p&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;音符類型&#34;&gt;音符類型&lt;/h3&gt;
-&lt;p&gt;簡單地介紹一下各種音符&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Tap&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Hold&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Slide&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Air&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Air crush：與一般的 Air 沒有什麼區別，大部分是視覺效果&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Flick：只有 Master 譜面才會出現&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;我挺推薦大家把這些音符的名字記著的，這樣如果有問題的時候別人也比較好理解你在說什麼。&lt;/p&gt;
-&lt;p&gt;至於音符的判定技巧我也很有興趣，之後會試著&lt;/p&gt;
-&lt;h3 id=&#34;觸控板&#34;&gt;觸控板&lt;/h3&gt;
-&lt;p&gt;已經有玩過中二的玩家，或許不知道其實中二節奏的觸控板是分成上下各16格總共32格。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;機台機制 16*2&lt;/p&gt;
-&lt;p&gt;所以可以實現這樣的譜面（放圖）&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;閃鋼&lt;/li&gt;
-&lt;li&gt;夢の始まり&lt;/li&gt;
-&lt;li&gt;放一個slide加flick的譜面&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;figure&gt;&lt;img src=&#34;img/air-sensor.jpg&#34; width=&#34;450&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;觸控板與手機常用的電容式觸控是不同原理，所以只要是有點重量都可以感應成功，&lt;strong&gt;注意力道遊玩吧！&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;觸控板的秘密&#34;&gt;觸控板的秘密&lt;/h3&gt;
+&lt;p&gt;也許你已經有玩過中二節奏了，但你或許不知道其實中二節奏的觸控板是分成&lt;strong&gt;上下各16格&lt;/strong&gt;總共32格。&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;img/chunithm-slider.jpg&#34; width=&#34;600&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;上下各16格&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;至於這有什麼重要的就繼續看下去吧！&lt;/p&gt;
+&lt;h4 id=&#34;觸控板的操作&#34;&gt;觸控板的操作&lt;/h4&gt;
+&lt;p&gt;剛才提到觸控板分為上下很重要是因為只要理解到這件事，下面的這些譜面就知道該怎麼打了。&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;img/usatei-79bar.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;【ウサテイ】79小節&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;例如一隻手按在中間下半部的觸控板，另一隻手去打AIR。&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;img/kibou-no-tsuki-47bar.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;【幾望の月】47小節&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;同樣地為了不妨礙左右來回的Flick，一隻手按住Slide後往下半部移動。&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;img/senkou-39bar.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;【閃鋼のブリューナク】39小節&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;又或是像這樣的譜面，大拇指按住Hold之後，剩餘的手指就可以在上方處理Tap了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;除了這些之外其實中二節奏還有很多有趣的判定技巧&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不過就留到之後再寫吧！&lt;/strong&gt;&lt;/p&gt;
 &lt;h3 id=&#34;参考資料&#34;&gt;参考資料&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%82%A6%E3%83%8B%E3%82%BA%E3%83%A0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;chunithm wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://sdvx.in/chunithm.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CHUNITHM譜面保管所SUN&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dic.pixiv.net/a/%E3%82%B2%E3%82%AD%E3%83%81%E3%83%A5%E3%82%A6%E3%83%9E%E3%82%A4#:~:text=%E3%82%BB%E3%82%AC%E3%81%AE%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E5%90%91%E3%81%91%E3%83%AA%E3%82%BA%E3%83%A0,%E3%83%9E%E3%82%A4%E3%80%8D%E3%81%A8%E3%82%82%E8%A1%A8%E8%A8%98%E3%81%95%E3%82%8C%E3%82%8B%E3%80%82&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;ゲキチュウマイ (げきちゅうまい)とは【ピクシブ百科事典】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://toki-11.hatenablog.com/entry/2021/10/08/223602&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;チュウニズム 何故人は巻き込み、抜けていくのか - ときさんのゴミ箱&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
