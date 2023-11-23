@@ -420,7 +420,7 @@
 <ul>
 <li>
 <p>搜尋（Search）</p>
-<p>只要在打上要找的關鍵字就可以全文搜尋，而且超快！！</p>
+<p>只要打上要找的關鍵字就可以全文搜尋，而且超快！！</p>
 </li>
 </ul>
 <figure><img src="img/chuni-search.jpg" width="650"/><figcaption>
@@ -491,6 +491,52 @@
      
     
         
+    <script src="https://utteranc.es/client.js" 
+        repo="Gou935/gou935.github.io"
+        issue-term="pathname"
+        
+        crossorigin="anonymous"
+        async
+        >
+</script>
+
+<style>
+    .utterances {
+        max-width: unset;
+    }
+</style>
+
+<script>
+    let utterancesLoaded = false;
+
+    function setUtterancesTheme(theme) {
+        let utterances = document.querySelector('.utterances iframe');
+        if (utterances) {
+            utterances.contentWindow.postMessage(
+                {
+                    type: 'set-theme',
+                    theme: `github-${theme}`
+                },
+                'https://utteranc.es'
+            );
+        }
+    }
+
+    addEventListener('message', event => {
+        if (event.origin !== 'https://utteranc.es') return;
+
+        
+        utterancesLoaded = true;
+        setUtterancesTheme(document.documentElement.dataset.scheme)
+    });
+
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (!utterancesLoaded) return;
+        setUtterancesTheme(e.detail)
+    })
+</script>
+
+
     
 
     <footer class="site-footer">
