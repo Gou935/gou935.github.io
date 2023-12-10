@@ -10,7 +10,7 @@
 <meta property='og:description' content='遊戲、音樂、生活'>
 <meta property='og:url' content='https://gou935.com/tags/%E4%B8%AD%E4%BA%8C/'>
 <meta property='og:site_name' content='Gou&#39;s Blog'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2023-12-03T00:09:30&#43;09:00 '/>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2023-12-10T14:50:51&#43;09:00 '/>
 <meta name="twitter:title" content="Tag: 中二 - Gou&#39;s Blog">
 <meta name="twitter:description" content="遊戲、音樂、生活"><link rel="alternate" type="application/rss&#43;xml" href="https://gou935.com/tags/%E4%B8%AD%E4%BA%8C/index.xml">
     <link rel="shortcut icon" href="/favicon.ico" />
@@ -20,7 +20,9 @@
     <script>
         (function() {
             const colorSchemeKey = 'StackColorScheme';
-            localStorage.setItem(colorSchemeKey, "auto");
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
         })();
     </script><script>
     (function() {
@@ -294,6 +296,26 @@
         <div class="menu-bottom-section">
             
             
+                <li id="dark-mode-toggle">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <span>Dark Mode</span>
+                </li>
+            
         </div>
     </ol>
 </aside>
@@ -343,7 +365,7 @@
                     <a href="/archives/#2023">
                         
                             <span class="year">2023</span>
-                            <span class="count">5</span>
+                            <span class="count">6</span>
                         
                     </a> 
                 </div>
@@ -372,6 +394,10 @@
         
             <a href="/categories/chunithm/" class="font_size_4">
                 CHUNITHM
+            </a>
+        
+            <a href="/categories/%E9%9F%B3%E9%81%8A%E5%85%B1%E9%80%9A/" class="font_size_1">
+                音遊共通
             </a>
         
     </div>

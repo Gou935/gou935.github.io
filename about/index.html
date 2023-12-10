@@ -20,7 +20,9 @@
     <script>
         (function() {
             const colorSchemeKey = 'StackColorScheme';
-            localStorage.setItem(colorSchemeKey, "auto");
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
         })();
     </script><script>
     (function() {
@@ -294,6 +296,26 @@
         <div class="menu-bottom-section">
             
             
+                <li id="dark-mode-toggle">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <span>Dark Mode</span>
+                </li>
+            
         </div>
     </ol>
 </aside>
@@ -387,7 +409,6 @@
 <h3 id="喜歡的東西">喜歡的東西</h3>
 <p>喜歡遊戲、音樂、迷因（？）
 特別是音樂遊戲</p>
-<hr>
 <p>除了音樂遊戲以外我還喜歡 RPG 遊戲（最近在玩異度神劍 3）</p>
 <p>還有</p>
 <figure><img src="/images/kirby-smile.png" width="300"/><figcaption>
@@ -405,6 +426,10 @@
 <li>
 <p><a class="link" href="https://twitter.com/Gou935"  target="_blank" rel="noopener"
     >twitter（X）</a>直接 DM</p>
+</li>
+<li>
+<p>在文章下方留言：借助<a class="link" href="https://utteranc.es/"  target="_blank" rel="noopener"
+    >utterances</a>的服務，現在可以在文章下留言了喔</p>
 <p><strong>我會盡力回答的！！</strong></p>
 </li>
 </ul>
