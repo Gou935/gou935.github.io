@@ -6,7 +6,102 @@
         <description>Recent content in CHUNITHM on Gou&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Sun, 03 Dec 2023 00:09:30 +0900</lastBuildDate><atom:link href="https://gou935.com/categories/chunithm/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 10 Dec 2023 15:54:34 +0800</lastBuildDate><atom:link href="https://gou935.com/categories/chunithm/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>SOS AJ解說</title>
+        <link>https://gou935.com/post/sos-last/</link>
+        <pubDate>Sun, 10 Dec 2023 15:54:34 +0800</pubDate>
+        
+        <guid>https://gou935.com/post/sos-last/</guid>
+        <description>&lt;img src="https://gou935.com/post/sos-last/img/sos.jpg" alt="Featured image of post SOS AJ解說" /&gt;&lt;h3 id=&#34;前言&#34;&gt;前言&lt;/h3&gt;
+&lt;p&gt;這篇文本來是想測試一下影片播放功能，&lt;del&gt;但好像有版權問題不能直接播放。&lt;/del&gt; （可以了👍）就順便寫個解說&lt;/p&gt;
+&lt;h3 id=&#34;譜面分析&#34;&gt;譜面分析&lt;/h3&gt;
+&lt;p&gt;（SON OF SUN）以下簡稱 SOS&lt;/p&gt;
+&lt;p&gt;關於 SOS 的譜面，我會說對於大部分有 R16 左右地力的人來講，整體上並沒有太多複雜的部分，所以這篇我主要會講解尾殺的部分。&lt;/p&gt;
+&lt;h3 id=&#34;平地部分&#34;&gt;平地部分&lt;/h3&gt;
+&lt;p&gt;像剛剛說的，平地的部分我覺得沒有什麼好講的，但還是有一些地方可以稍微提一下。
+在第 61 小節開始的配置：
+&lt;figure&gt;&lt;img src=&#34;img/sos-61measure.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;61小節配置&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+由於 slide 的配置過於傾斜，移動判定會消失。因此只要完成&lt;strong&gt;始點&lt;/strong&gt;以及&lt;strong&gt;keep&lt;/strong&gt;的判定就可以了。換句話說，左手打 tap、右手按住就可以完成判定。
+&lt;figure&gt;&lt;img src=&#34;img/sos-61measure-2.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;右手按住&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;尾殺部分&#34;&gt;尾殺部分&lt;/h3&gt;
+&lt;p&gt;尾殺的認識難部分讓許多玩家在這裡噴掉大部分分數&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;能不能上 SSS 就看這裡了&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一般來說，尾殺的攻略手法分為三種&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;左右交互正攻打法&lt;/li&gt;
+&lt;li&gt;左右手拆分打法&lt;/li&gt;
+&lt;li&gt;全押（8 分）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我是採用第 2 種打法
+&lt;figure&gt;&lt;img src=&#34;img/sos-77measure.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;77小節配置&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+在尾殺的部分，因為音符最小只有分隔到四分之一大小，所以可以用右手打右側 3/4 部分；左手打剩餘的 1/4 部分。
+&lt;figure&gt;&lt;img src=&#34;img/sos-77measure-2.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;四分分割&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+實際上的按鍵配置大概是像這樣。(&lt;strong&gt;左手藍色、右手紅色&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;左手負責 Air 以及最左側的音符，右手則負責右側 3/4 的音符。
+&lt;figure&gt;&lt;img src=&#34;img/sos-77measure-3.jpg&#34; width=&#34;230&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;按鍵配置&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+至於打的節奏則是左手四分音符、右手八分音符的節奏。
+如果你不太確定四分音符以及八分音符的意思的話，你可以上網查。我也可以之後再介紹節奏樂理。&lt;/p&gt;
+&lt;details&gt;
+  &lt;summary&gt;歡迎先看一個有看沒有懂的說明&lt;/summary&gt;
+  &lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;X 分音符代表著該音符&lt;strong&gt;相對於全音符的時長&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;假設以四分音符為一拍，八分音符則為四分音符的&lt;strong&gt;一半時長&lt;/strong&gt;；這也表示八分音符打的&lt;strong&gt;速度會是四分音符的 2 倍&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;拍號是設定拍子的符號，以分數的形式寫出。分母為設定單位拍，分子為每小節單位拍數量  例: 4/4 表示以四分音符為一拍，一個小節有四拍&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;以（SOS）BPM200、4/4 四四拍的曲子為例：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;以四分音符為一拍，一個小節有四拍；也就是&lt;strong&gt;一個小節會有四個四分音符（上圖藍色的部分）&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;而八分音符為四分音符的一半時長；換句話說，&lt;strong&gt;2 個八分音符等於一個四分音符（上圖紅色部分）&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;/details&gt;
+
+&lt;p&gt;實際遊玩的時候因為譜面視覺上的影響比我想像中的大，所以到最後我是稍微把視線移開螢幕，主要靠節奏來打。（雖然中間有點亂掉）&lt;/p&gt;
+&lt;h4 id=&#34;一些小細節&#34;&gt;一些小細節&lt;/h4&gt;
+&lt;p&gt;我覺得還可以注意的一點是 77 小節開始是左手啟動並且要抬手，這容易造成右手節奏錯亂；所以即便右手第一拍沒有音符我還是會一起按下去。
+這在日文中有一個詞叫「&lt;strong&gt;空打ち&lt;/strong&gt;」，意思就是在沒有音符的地方空打來維持節奏。
+&lt;figure&gt;&lt;img src=&#34;img/sos-77measure-4.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;尾殺一開始&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;手元影片&#34;&gt;手元影片&lt;/h3&gt;
+&lt;p&gt;最後，歡迎到 YouTube 上看看手元影片&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=ns450WEJm8I&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Youtube 連結&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;img/sosaj.jpg&#34; width=&#34;640&#34;/&gt;
+&lt;/figure&gt;
+
+</description>
+        </item>
+        <item>
         <title>如何練習運指（指押し）？【中二節奏】</title>
         <link>https://gou935.com/post/chunithm-yubioshi/</link>
         <pubDate>Sun, 03 Dec 2023 00:09:30 +0900</pubDate>
