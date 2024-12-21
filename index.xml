@@ -6,7 +6,144 @@
         <description>Recent content on Gou&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Fri, 29 Dec 2023 10:54:50 +0900</lastBuildDate><atom:link href="https://gou935.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 09 Jul 2024 00:08:25 +0900</lastBuildDate><atom:link href="https://gou935.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>音遊機台卡片註冊教學</title>
+        <link>https://gou935.com/post/amusement-ic/</link>
+        <pubDate>Tue, 09 Jul 2024 00:08:25 +0900</pubDate>
+        
+        <guid>https://gou935.com/post/amusement-ic/</guid>
+        <description>&lt;img src="https://gou935.com/post/amusement-ic/img/amusement-ic.jpg" alt="Featured image of post 音遊機台卡片註冊教學" /&gt;&lt;p&gt;大家好 我是 Gou ～&lt;/p&gt;
+&lt;p&gt;對於想要遊玩街機音遊的玩家，不管是想要保存遊戲紀錄還是參加，卡片可以說是&lt;strong&gt;必須的物品&lt;/strong&gt;。
+這一篇文章我會告訴你關於遊戲機台卡片的知識和遊戲帳號的註冊教學。&lt;/p&gt;
+&lt;h3 id=&#34;有哪一些卡片&#34;&gt;有哪一些卡片？&lt;/h3&gt;
+&lt;p&gt;目前根據不同遊戲公司分為四種卡片&lt;/p&gt;
+&lt;p&gt;分別是：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;遊戲公司&lt;/th&gt;
+&lt;th&gt;卡片&lt;/th&gt;
+&lt;th&gt;旗下遊戲&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;SEGA&lt;/td&gt;
+&lt;td&gt;Aime&lt;/td&gt;
+&lt;td&gt;MAIMAI、CHUNITHM、音擊（Ongeki）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;KONAMI&lt;/td&gt;
+&lt;td&gt;e-amusement pass&lt;/td&gt;
+&lt;td&gt;beatmania IIDX、Sound Voltex、Jubeat&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;BANDAI NAMCO&lt;/td&gt;
+&lt;td&gt;Bandai Namco Passport&lt;/td&gt;
+&lt;td&gt;太鼓達人&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Taito&lt;/td&gt;
+&lt;td&gt;NESiCA&lt;/td&gt;
+&lt;td&gt;Groove Coastor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;看到這裡你可能會想有這麼多卡片，我到底該用哪一張呢？
+事實上，在 2024 &lt;strong&gt;你已經不需要擔心這個問題&lt;/strong&gt;了。
+原因就是我們接下來要提到的 「Amusement IC」。&lt;/p&gt;
+&lt;h3 id=&#34;amusment-ic-是什麼&#34;&gt;Amusment IC 是什麼？&lt;/h3&gt;
+&lt;p&gt;Amusement IC 是各家遊戲公司聯合在 2018 年推出的機台 IC 卡統一規格。
+以往如果想要玩不同遊戲公司的旗下遊戲就得帶好幾張卡片，但有了 Amusement IC 之後，只要帶一張有 Amusement IC 認證的卡就可以了。&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;img/amusement-ic.jpg&#34; width=&#34;400&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;Amusument IC&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;可以在哪裡買到呢&#34;&gt;可以在哪裡買到呢？&lt;/h3&gt;
+&lt;p&gt;在日本的話，一般來說你都可以在遊戲廳找到販賣遊戲卡片的機器，通常一張為 300 日圓。&lt;/p&gt;
+&lt;p&gt;而在台灣的話，老實說我並不是非常清楚，但問過一些玩家後大致整理一下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在機廳（湯 X 熊······）*通常 150 TWD一張&lt;/li&gt;
+&lt;li&gt;網路上購買&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;請友人送你&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在買之前可以到社群上問一下&lt;/p&gt;
+&lt;h3 id=&#34;卡片資料管理&#34;&gt;卡片資料管理&lt;/h3&gt;
+&lt;p&gt;買到卡片後就可以在機台使用了，但要保存遊戲資料我們還得要創建帳號。
+而且，剛才雖然提到 IC 卡使用了統一規格，但不同遊戲的資料還是保存在不同遊戲公司的伺服器裡（廢話？）。
+所以下一步就是根據想玩的遊戲&lt;strong&gt;創建帳號&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我接下來會實際登錄一張新的卡片，就一起來看看需要哪些步驟吧！&lt;/p&gt;
+&lt;h4 id=&#34;資料轉移&#34;&gt;資料轉移&lt;/h4&gt;
+&lt;h3 id=&#34;aimesega&#34;&gt;Aime（SEGA）&lt;/h3&gt;
+&lt;p&gt;要有幾個步驟：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;首先到機台使用卡片遊玩一次&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;到&lt;a class=&#34;link&#34; href=&#34;https://my-aime.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Aime サービスサイト&lt;/a&gt;創建帳號&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;將卡片資料登錄到創建好的帳號&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure&gt;&lt;img src=&#34;img/aime-process.jpg&#34; width=&#34;500&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;三個步驟&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;e-amusement-passkonami&#34;&gt;e-amusement pass（KONAMI）&lt;/h3&gt;
+&lt;h4 id=&#34;密碼設定パスワード&#34;&gt;密碼設定（パスワード）&lt;/h4&gt;
+&lt;p&gt;KONAMI 的遊戲很有趣，在刷完卡片後還需要輸入自訂的四位密碼才能登入。
+所以這一步我們要設定一個「&lt;strong&gt;四位密碼&lt;/strong&gt;」。&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;img/konami-password.jpg&#34; width=&#34;400&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;SDVX登錄畫面&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;bandai-namco-passportbandai-namco&#34;&gt;Bandai Namco Passport（BANDAI NAMCO）&lt;/h3&gt;
+&lt;p&gt;看到這其實流程也是大同小異&lt;/p&gt;
+&lt;h3 id=&#34;一些-qa&#34;&gt;一些 Q&amp;amp;A&lt;/h3&gt;
+&lt;p&gt;最後是一些曾經聽過或覺得可能會有的問題&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;台灣買的卡可以在日本用嗎？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A: 當然可以，不如說這本來就是日本來的。不過有些遊戲的伺服器和日本的不共通，所以到日本刷卡會直接是一個新的帳號。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我不知道買到的卡片可不可以刷？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A：啊？ 就刷刷看啊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我買了一張新的卡片，舊的卡片資料該怎麼辦？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A：你可以到各家遊戲公司的卡片資料管理頁面，將舊的資料轉移到新卡片喔。&lt;/p&gt;
+&lt;p&gt;轉移方式：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.konami.com/amusement/aicc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Konami-amusement ic 介紹&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://my-aime.net/login/register/intro&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;新規登録 | Aime サービスサイト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.hkmusicgame.info/card-register/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.hkmusicgame.info/card-register/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://forum.gamer.com.tw/C.php?bsn=21890&amp;amp;snA=986&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;【心得】還沒找到第一張記錄卡嗎?在這裡幫你介紹~ @maimai 哈啦板 - 巴哈姆特&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>【中二節奏】13&#43;全SSS達成心得！</title>
         <link>https://gou935.com/post/13plus-all-sss/</link>
         <pubDate>Fri, 29 Dec 2023 10:54:50 +0900</pubDate>
@@ -1971,7 +2108,7 @@ R 值的計算公式是：&lt;/p&gt;
         
         <guid>https://gou935.com/about/</guid>
         <description>&lt;h3 id=&#34;我是誰&#34;&gt;我是誰？&lt;/h3&gt;
-&lt;p&gt;一名普通的大學生 主修經濟學&lt;/p&gt;
+&lt;p&gt;一名普通的大學生&lt;/p&gt;
 &lt;p&gt;目前日本留學中～&lt;/p&gt;
 &lt;h3 id=&#34;喜歡的東西&#34;&gt;喜歡的東西&lt;/h3&gt;
 &lt;p&gt;喜歡遊戲、音樂、迷因（？）
