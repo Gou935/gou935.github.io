@@ -3,7 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gou935.com/</loc>
-    <lastmod>2025-01-02T16:13:34+08:00</lastmod>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gou935.com/page/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gou935.com/note/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gou935.com/music/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gou935.com/post/2025-first-post/</loc>
     <lastmod>2025-01-02T16:13:34+08:00</lastmod>
@@ -77,9 +86,6 @@
     <loc>https://gou935.com/post/chunithm/</loc>
     <lastmod>2023-03-14T17:14:58+08:00</lastmod>
   </url><url>
-    <loc>https://gou935.com/page/</loc>
-    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gou935.com/about/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -88,6 +94,8 @@
   </url><url>
     <loc>https://gou935.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gou935.com/categories/</loc>
   </url><url>
     <loc>https://gou935.com/search/</loc>
   </url>
