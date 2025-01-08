@@ -6,10 +6,10 @@
         <description>Recent content in Posts on Gou&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Wed, 08 Jan 2025 13:50:19 +0900</lastBuildDate><atom:link href="https://gou935.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://gou935.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>日檢1級心得</title>
         <link>https://gou935.com/post/n1-guide/</link>
-        <pubDate>Wed, 08 Jan 2025 13:50:19 +0900</pubDate>
+        <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
         
         <guid>https://gou935.com/post/n1-guide/</guid>
         <description>&lt;h3 id=&#34;測試文章-之後再寫&#34;&gt;測試文章 之後再寫～&lt;/h3&gt;
@@ -375,13 +375,13 @@ Happy New Year&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>SOS AJ解說</title>
+        <title>中二節奏 SOS AJ解說</title>
         <link>https://gou935.com/post/sos-last/</link>
         <pubDate>Sun, 10 Dec 2023 15:54:34 +0800</pubDate>
         
         <guid>https://gou935.com/post/sos-last/</guid>
-        <description>&lt;img src="https://gou935.com/post/sos-last/img/sos.jpg" alt="Featured image of post SOS AJ解說" /&gt;&lt;h3 id=&#34;前言&#34;&gt;前言&lt;/h3&gt;
-&lt;p&gt;這篇文本來是想測試一下影片播放功能，&lt;del&gt;但好像有版權問題不能直接播放。&lt;/del&gt; （可以了👍）就順便寫個解說&lt;/p&gt;
+        <description>&lt;img src="https://gou935.com/post/sos-last/img/sos.jpg" alt="Featured image of post 中二節奏 SOS AJ解說" /&gt;&lt;h3 id=&#34;前言&#34;&gt;前言&lt;/h3&gt;
+&lt;p&gt;這篇文本來是想測試一下影片播放功能，&lt;del&gt;但好像有版權問題不能直接播放。&lt;/del&gt; （可以了 👍）就順便寫個解說&lt;/p&gt;
 &lt;h3 id=&#34;譜面分析&#34;&gt;譜面分析&lt;/h3&gt;
 &lt;p&gt;（SON OF SUN）以下簡稱 SOS&lt;/p&gt;
 &lt;p&gt;關於 SOS 的譜面，我會說對於大部分有 R16 左右地力的人來講，整體上並沒有太多複雜的部分，所以這篇我主要會講解尾殺的部分。&lt;/p&gt;
@@ -439,7 +439,7 @@ Happy New Year&lt;/p&gt;
 &lt;p&gt;假設以四分音符為一拍，八分音符則為四分音符的&lt;strong&gt;一半時長&lt;/strong&gt;；這也表示八分音符打的&lt;strong&gt;速度會是四分音符的 2 倍&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;拍號是設定拍子的符號，以分數的形式寫出。分母為設定單位拍，分子為每小節單位拍數量  例: 4/4 表示以四分音符為一拍，一個小節有四拍&lt;/p&gt;
+&lt;p&gt;拍號是設定拍子的符號，以分數的形式寫出。分母為設定單位拍，分子為每小節單位拍數量 例: 4/4 表示以四分音符為一拍，一個小節有四拍&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;以（SOS）BPM200、4/4 四四拍的曲子為例：&lt;/p&gt;
