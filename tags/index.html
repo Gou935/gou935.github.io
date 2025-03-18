@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-tw" dir="ltr">
-    <head><meta charset="utf-8" />
+<html
+  lang="zh-tw"
+  dir="ltr"
+>
+  <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="description" content="我的部落格" />
 <title>Tags</title>
 
@@ -35,8 +38,8 @@ if (!doNotTrack) {
 />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
-    </head>
-    <body class="">
+  </head>
+  <body class="">
     <script>
         (function() {
             const colorSchemeKey = 'StackColorScheme';
@@ -59,7 +62,9 @@ if (!doNotTrack) {
         }
     })();
 </script>
-<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+<div
+      class="container main-container flex on-phone--column extended"
+    ><aside class="sidebar left-sidebar sticky ">
     <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
         <span class="hamburger-box">
             <span class="hamburger-inner"></span>
@@ -456,7 +461,7 @@ if (!doNotTrack) {
         
     </aside>
  
-            <main class="main full-width">
+      <main class="main full-width">
 <header>
   <h3 class="section-title">
      Section 
@@ -638,9 +643,10 @@ if (!doNotTrack) {
   </script>
 </footer>
  
-            </main>
-        </div>
-        <script 
+        <div id="utterances"></div>
+      </main>
+    </div>
+    <script 
                 src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
                 
                 >
@@ -657,5 +663,22 @@ if (!doNotTrack) {
     }());
 </script>
 
-    </body>
+
+    <script>
+      window.addEventListener("load", function () {
+        var commentSection = document.getElementById("utterances");
+        if (commentSection) {
+          var script = document.createElement("script");
+          script.src = "https://utteranc.es/client.js";
+          script.setAttribute("repo", "Gou935/gou935.github.io");
+          script.setAttribute("issue-term", "pathname");
+          script.setAttribute("label", "comment");
+          script.setAttribute("theme", "github-light");
+          script.setAttribute("crossorigin", "anonymous");
+          script.setAttribute("defer", "true");
+          commentSection.appendChild(script);
+        }
+      });
+    </script>
+  </body>
 </html>

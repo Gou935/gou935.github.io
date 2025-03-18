@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-tw" dir="ltr">
-    <head><meta charset="utf-8" />
+<html
+  lang="zh-tw"
+  dir="ltr"
+>
+  <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="description" content="在看了 Wiwi.Blog 的這篇文章後覺得很有啟發，也想趁著新年開始有幹勁時給自己一些期許。
 1. 過去一年的亮點 老實說，雖然覺得沒什麼亮點，但還是有完成以下的事情。 回過頭來看其實也還不錯，並沒有自己想的那麼無聊。
 完成了四個月的兵役 考到駕照 重新開始學鼓 幫忙打擊樂團的幕後工作 用 Garageband 完成了一首日語歌的 Cover 去台東、高雄玩了一個禮拜 在電腦上架了自己私有的筆記系統（Memos、Codimd） 搞定了家中吃灰的 NAS 2. 這一年中最困難的部分 我覺得最難的還是是跟著計劃走吧，一年之中的總是有許多想做卻沒完成的事。 不過就像原子習慣說的：
@@ -62,8 +65,8 @@ if (!doNotTrack) {
 />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
-    </head>
-    <body class=" article-page ">
+  </head>
+  <body class=" article-page ">
     <script>
         (function() {
             const colorSchemeKey = 'StackColorScheme';
@@ -86,7 +89,9 @@ if (!doNotTrack) {
         }
     })();
 </script>
-<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+<div
+      class="container main-container flex on-phone--column extended"
+    ><aside class="sidebar left-sidebar sticky ">
     <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
         <span class="hamburger-box">
             <span class="hamburger-inner"></span>
@@ -422,7 +427,7 @@ if (!doNotTrack) {
         
     </aside>
  
-            <main class="main full-width"> <article class="has-image main-article">
+      <main class="main full-width"> <article class="has-image main-article">
     <header class="article-header">
         <div class="article-image">
             <a href="/post/2025-first-post/">
@@ -802,9 +807,10 @@ if (!doNotTrack) {
                 rel="stylesheet" 
                 href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
             > 
-            </main>
-        </div>
-        <script 
+        <div id="utterances"></div>
+      </main>
+    </div>
+    <script 
                 src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
                 
                 >
@@ -821,5 +827,22 @@ if (!doNotTrack) {
     }());
 </script>
 
-    </body>
+
+    <script>
+      window.addEventListener("load", function () {
+        var commentSection = document.getElementById("utterances");
+        if (commentSection) {
+          var script = document.createElement("script");
+          script.src = "https://utteranc.es/client.js";
+          script.setAttribute("repo", "Gou935/gou935.github.io");
+          script.setAttribute("issue-term", "pathname");
+          script.setAttribute("label", "comment");
+          script.setAttribute("theme", "github-light");
+          script.setAttribute("crossorigin", "anonymous");
+          script.setAttribute("defer", "true");
+          commentSection.appendChild(script);
+        }
+      });
+    </script>
+  </body>
 </html>

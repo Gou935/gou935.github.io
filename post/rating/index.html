@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-tw" dir="ltr">
-    <head><meta charset="utf-8" />
+<html
+  lang="zh-tw"
+  dir="ltr"
+>
+  <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="description" content="你有沒有曾經聽過其他人在討論譜面時常常提到一些數字但聽得一頭霧水，例如 14.5、13.6 ～
 這篇文章我要來告訴你一些應該知道的詞：譜面定數、B30和R10，並且告訴你怎麼計算自己的 R 值。
 為什麼要知道這些？ 這篇文章主要是寫給新手玩家或者是不清楚 Rating 是怎麼計算的人，了解 R 值計算對於選擇遊玩的曲目很有幫助。文中會用到一些好用的工具來說明，還沒用過的人趕快一起用看看吧！
@@ -89,8 +92,8 @@ if (!doNotTrack) {
 />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
-    </head>
-    <body class=" article-page ">
+  </head>
+  <body class=" article-page ">
     <script>
         (function() {
             const colorSchemeKey = 'StackColorScheme';
@@ -113,7 +116,9 @@ if (!doNotTrack) {
         }
     })();
 </script>
-<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+<div
+      class="container main-container flex on-phone--column extended"
+    ><aside class="sidebar left-sidebar sticky ">
     <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
         <span class="hamburger-box">
             <span class="hamburger-inner"></span>
@@ -467,7 +472,7 @@ if (!doNotTrack) {
         
     </aside>
  
-            <main class="main full-width"> <article class="has-image main-article">
+      <main class="main full-width"> <article class="has-image main-article">
     <header class="article-header">
         <div class="article-image">
             <a href="/post/rating/">
@@ -1060,9 +1065,10 @@ R 值的計算公式是：</p>
                 rel="stylesheet" 
                 href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
             > 
-            </main>
-        </div>
-        <script 
+        <div id="utterances"></div>
+      </main>
+    </div>
+    <script 
                 src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
                 
                 >
@@ -1079,5 +1085,22 @@ R 值的計算公式是：</p>
     }());
 </script>
 
-    </body>
+
+    <script>
+      window.addEventListener("load", function () {
+        var commentSection = document.getElementById("utterances");
+        if (commentSection) {
+          var script = document.createElement("script");
+          script.src = "https://utteranc.es/client.js";
+          script.setAttribute("repo", "Gou935/gou935.github.io");
+          script.setAttribute("issue-term", "pathname");
+          script.setAttribute("label", "comment");
+          script.setAttribute("theme", "github-light");
+          script.setAttribute("crossorigin", "anonymous");
+          script.setAttribute("defer", "true");
+          commentSection.appendChild(script);
+        }
+      });
+    </script>
+  </body>
 </html>
