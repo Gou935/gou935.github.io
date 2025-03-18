@@ -38,17 +38,23 @@
 &lt;p&gt;趕快去搞懂音符名字吧！&lt;/p&gt;
 &lt;h4 id=&#34;雙押同時押し&#34;&gt;雙押（同時押し）&lt;/h4&gt;
 &lt;p&gt;雙押指的是一次同時按兩個音符的配置。除了雙押以外，根據配置的不同也有三押、多押的用法。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;img/doujioshi.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;雙押配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/doujioshi.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;雙押配置&#34;&gt;
+      &lt;img src=&#34;img/doujioshi.jpg&#34; alt=&#34;雙押配置&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;雙押配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;h4 id=&#34;交互トリル-trill&#34;&gt;交互（トリル） Trill&lt;/h4&gt;
 &lt;p&gt;交互指的是雙手來回擊打的配置&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;img/trill.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;交互配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;a href=&#34;img/trill.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;交互配置&#34;&gt;
+      &lt;img src=&#34;img/trill.jpg&#34; alt=&#34;交互配置&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;交互配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;details&gt;
   &lt;summary&gt;術語由來：&lt;/summary&gt;
@@ -60,135 +66,192 @@
 &lt;/p&gt;
 &lt;h4 id=&#34;單手交互片手トリル&#34;&gt;單手交互（片手トリル）&lt;/h4&gt;
 &lt;p&gt;單手交互指的是配置上的限制，得單手處理的交互配置。
-&lt;figure&gt;&lt;img src=&#34;img/katate-trill.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;單手交互&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/katate-trill.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;單手交互&#34;&gt;
+      &lt;img src=&#34;img/katate-trill.jpg&#34; alt=&#34;單手交互&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;單手交互&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;雙手交互両手トリル&#34;&gt;雙手交互（両手トリル）&lt;/h4&gt;
 &lt;p&gt;除了單手交互之外還有像這樣的雙手交互，
 下面的配置也稱為「對稱交互」和「非對稱交互」。
-&lt;figure&gt;&lt;img src=&#34;img/ryote-trill.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;對稱交互&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/ryote-trill.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;對稱交互&#34;&gt;
+      &lt;img src=&#34;img/ryote-trill.jpg&#34; alt=&#34;對稱交互&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;對稱交互&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
-&lt;figure&gt;&lt;img src=&#34;img/ryote-trill-2.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;非對稱交互&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/ryote-trill-2.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;非對稱交互&#34;&gt;
+      &lt;img src=&#34;img/ryote-trill-2.jpg&#34; alt=&#34;非對稱交互&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;非對稱交互&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;階梯階段&#34;&gt;階梯（階段）&lt;/h4&gt;
 &lt;p&gt;階梯指的是連續擊打相鄰軌道的配置，變化非常多。
-&lt;figure&gt;&lt;img src=&#34;img/kaidan.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;階梯配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/kaidan.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;階梯配置&#34;&gt;
+      &lt;img src=&#34;img/kaidan.jpg&#34; alt=&#34;階梯配置&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;階梯配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
-&lt;figure&gt;&lt;img src=&#34;img/kaidan-2.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;更多階梯配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/kaidan-2.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;更多階梯配置&#34;&gt;
+      &lt;img src=&#34;img/kaidan-2.jpg&#34; alt=&#34;更多階梯配置&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;更多階梯配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;折返階梯折り返し階段&#34;&gt;折返階梯（折り返し階段）&lt;/h4&gt;
 &lt;p&gt;折返階梯指的是來回折返的階梯配置
-&lt;figure&gt;&lt;img src=&#34;img/orikaeshi.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;折返配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/orikaeshi.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;折返配置&#34;&gt;
+      &lt;img src=&#34;img/orikaeshi.jpg&#34; alt=&#34;折返配置&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;折返配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
-&lt;figure&gt;&lt;img src=&#34;img/orikaeshi-2.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;折返配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/orikaeshi-2.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;折返配置&#34;&gt;
+      &lt;img src=&#34;img/orikaeshi-2.jpg&#34; alt=&#34;折返配置&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;折返配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;螺旋階梯螺旋階段&#34;&gt;螺旋階梯（螺旋階段）&lt;/h4&gt;
 &lt;p&gt;螺旋階梯是另一種折返階梯配置，來回的幅度比較小像一個螺旋。
-&lt;figure&gt;&lt;img src=&#34;img/rasen.jpg&#34; width=&#34;150&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;螺旋配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/rasen.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;螺旋配置&#34;&gt;
+      &lt;img src=&#34;img/rasen.jpg&#34; alt=&#34;螺旋配置&#34; width=&#34;150&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;螺旋配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;く字型配置くの字配置&#34;&gt;く字型配置（くの字配置）&lt;/h4&gt;
 &lt;p&gt;這個配置在中文圈好像沒有特別的稱呼，但在日文中還挺常見的。原因就是長得很像日文く這個字，正好注音也有く就一併介紹。
-&lt;figure&gt;&lt;img src=&#34;img/kujigata.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;く字型配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/kujigata.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;く字型配置&#34;&gt;
+      &lt;img src=&#34;img/kujigata.jpg&#34; alt=&#34;く字型配置&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;く字型配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;dna-配置&#34;&gt;DNA 配置&lt;/h4&gt;
 &lt;p&gt;長得很像 DNA 的配置
-&lt;figure&gt;&lt;img src=&#34;img/dna.jpg&#34; width=&#34;100&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;DNA配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/dna.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;DNA配置&#34;&gt;
+      &lt;img src=&#34;img/dna.jpg&#34; alt=&#34;DNA配置&#34; width=&#34;100&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;DNA配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;拘束配置&#34;&gt;拘束配置&lt;/h4&gt;
 &lt;p&gt;拘束指的是手的一部分被配置所限制的情況
-&lt;figure&gt;&lt;img src=&#34;img/kousoku.jpg&#34; width=&#34;150&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;拘束配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/kousoku.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;拘束配置&#34;&gt;
+      &lt;img src=&#34;img/kousoku.jpg&#34; alt=&#34;拘束配置&#34; width=&#34;150&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;拘束配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;縱連たてれん&#34;&gt;縱連（たてれん）&lt;/h4&gt;
 &lt;p&gt;縱連指的是在縱向軌道上連續擊打的配置。
 如果是由 2 ～ 3 顆音符組成的縱連也有「短縱」和「微縱連」的講法。
-&lt;figure&gt;&lt;img src=&#34;img/tateren.jpg&#34; width=&#34;100&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;縱連配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/tateren.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;縱連配置&#34;&gt;
+      &lt;img src=&#34;img/tateren.jpg&#34; alt=&#34;縱連配置&#34; width=&#34;100&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;縱連配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
-&lt;figure&gt;&lt;img src=&#34;img/bitateren.jpg&#34; width=&#34;100&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;微縱連配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/bitateren.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;微縱連配置&#34;&gt;
+      &lt;img src=&#34;img/bitateren.jpg&#34; alt=&#34;微縱連配置&#34; width=&#34;100&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;微縱連配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;散打乱打&#34;&gt;散打（乱打）&lt;/h4&gt;
 &lt;p&gt;散打指的是沒有固定規律落下的音符
-&lt;figure&gt;&lt;img src=&#34;img/randa.jpg&#34; width=&#34;150&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;散打配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/randa.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;散打配置&#34;&gt;
+      &lt;img src=&#34;img/randa.jpg&#34; alt=&#34;散打配置&#34; width=&#34;150&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;散打配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;混合節奏複節奏混フレ混合-phrase&#34;&gt;混合節奏/複節奏（混フレ）混合 Phrase&lt;/h4&gt;
 &lt;p&gt;混合 Phrase（混フレ）指的是不同節奏、配置混合在一起的配置。中文我沒有找到固定的講法，所以我個人喜歡叫複節奏配置。
-&lt;figure&gt;&lt;img src=&#34;img/konfure.jpg&#34; width=&#34;130&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;複節奏配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/konfure.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;複節奏配置&#34;&gt;
+      &lt;img src=&#34;img/konfure.jpg&#34; alt=&#34;複節奏配置&#34; width=&#34;130&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;複節奏配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;補充：&lt;/p&gt;
 &lt;p&gt;有的人會稱為定拍配置，原因是玩家把譜面的一邊當作固定拍子來看。&lt;/p&gt;
 &lt;p&gt;就自己參考看看吧！
-&lt;figure&gt;&lt;img src=&#34;img/konfure-2.jpg&#34; width=&#34;100&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;定拍的講法&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/konfure-2.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;定拍的講法&#34;&gt;
+      &lt;img src=&#34;img/konfure-2.jpg&#34; alt=&#34;定拍的講法&#34; width=&#34;100&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;定拍的講法&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h4 id=&#34;跳拍ハネリズム&#34;&gt;跳拍（ハネリズム）&lt;/h4&gt;
 &lt;p&gt;簡單說明的話就是「跳起來的節奏」配置長得像是這樣：
-&lt;figure&gt;&lt;img src=&#34;img/hanerhythm-2.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;ハネリズム&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/hanerhythm-2.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;ハネリズム&#34;&gt;
+      &lt;img src=&#34;img/hanerhythm-2.jpg&#34; alt=&#34;ハネリズム&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;ハネリズム&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;延伸閱讀：&lt;/p&gt;
 &lt;p&gt;這種「跳起來的節奏」的秘密在於「節奏分割的比率」。把原本 1：1 的比率改為 2：1 就會產生一種跳過去的感覺。這種節奏稱為（Shuffle）
-&lt;figure&gt;&lt;img src=&#34;img/hanerhythm.jpg&#34; width=&#34;500&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;引用自https://chara.ge/pjsekai/project-sekai-shuffle-rhythm-cheat/#i&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/hanerhythm.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;引用自https://chara.ge/pjsekai/project-sekai-shuffle-rhythm-cheat/#i&#34;&gt;
+      &lt;img src=&#34;img/hanerhythm.jpg&#34; alt=&#34;引用自https://chara.ge/pjsekai/project-sekai-shuffle-rhythm-cheat/#i&#34; width=&#34;500&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;引用自https://chara.ge/pjsekai/project-sekai-shuffle-rhythm-cheat/#i&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h4 id=&#34;裝飾音微ズレ&#34;&gt;裝飾音（微ズレ）&lt;/h4&gt;
 &lt;p&gt;微ズレ指的是將音符稍微錯開的配置。因為中文實在是沒有對應的詞，所以我把它叫做裝飾音。（如果你知道怎麼講的話留言告訴我）
-&lt;figure&gt;&lt;img src=&#34;img/bizure.jpg&#34; width=&#34;130&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;微ズレ配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/bizure.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;微ズレ配置&#34;&gt;
+      &lt;img src=&#34;img/bizure.jpg&#34; alt=&#34;微ズレ配置&#34; width=&#34;130&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;微ズレ配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h3 id=&#34;手法篇&#34;&gt;手法篇&lt;/h3&gt;
 &lt;h4 id=&#34;指押指押し&#34;&gt;指押（指押し）&lt;/h4&gt;
@@ -197,17 +260,23 @@
     &gt;這篇文章&lt;/a&gt;喔&lt;/p&gt;
 &lt;h4 id=&#34;全押全押し&#34;&gt;全押（全押し）&lt;/h4&gt;
 &lt;p&gt;全押是所有軌道都有音符的配置
-&lt;figure&gt;&lt;img src=&#34;img/zenoshi.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;全押配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/zenoshi.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;全押配置&#34;&gt;
+      &lt;img src=&#34;img/zenoshi.jpg&#34; alt=&#34;全押配置&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;全押配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 除了是配置之外，也是一種手法。
 有些配置太難以處理的時候，可以用全押的手法無視配置處理。
-&lt;figure&gt;&lt;img src=&#34;img/zenoshi-2.jpg&#34; width=&#34;150&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;全押手法&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/zenoshi-2.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;全押手法&#34;&gt;
+      &lt;img src=&#34;img/zenoshi-2.jpg&#34; alt=&#34;全押手法&#34; width=&#34;150&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;全押手法&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;音押リズム押し&#34;&gt;音押（リズム押し）&lt;/h4&gt;
 &lt;p&gt;音押指的是依靠節奏來判定擊打音符的時機&lt;/p&gt;
@@ -216,10 +285,13 @@
 &lt;h4 id=&#34;餡蜜あんみつ&#34;&gt;餡蜜（あんみつ）&lt;/h4&gt;
 &lt;p&gt;餡蜜是一種將「&lt;strong&gt;稍微錯開時機&lt;/strong&gt;」的音符「&lt;strong&gt;同時處理&lt;/strong&gt;」的手法。
 你可以想像成每一個音符都有獨立的判定幅，而打在兩個音符的共同判定幅的手法雖然會捨棄掉最高準度，但可以比較輕鬆地處理音符。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;img/anmitsu-1.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;餡蜜&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/anmitsu-1.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;餡蜜&#34;&gt;
+      &lt;img src=&#34;img/anmitsu-1.jpg&#34; alt=&#34;餡蜜&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;餡蜜&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;h4 id=&#34;逆餡蜜ぎゃくあんみつ&#34;&gt;逆餡蜜（ぎゃくあんみつ）&lt;/h4&gt;
 &lt;p&gt;與餡蜜相反的，逆餡蜜指的是將「&lt;strong&gt;應該是同時處理&lt;/strong&gt;」的音符「&lt;strong&gt;稍微錯開時機&lt;/strong&gt;」處理的手法。
@@ -234,19 +306,25 @@
 &lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;除此之外，在 CHUNITHM 中因為判定機制的特殊，全押配置不採用全押的打法，而是從中間快速地往兩側滑也可以說是一種逆餡蜜（應該吧）
-&lt;figure&gt;&lt;img src=&#34;img/gyakuanmitsu.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;逆餡蜜&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/gyakuanmitsu.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;逆餡蜜&#34;&gt;
+      &lt;img src=&#34;img/gyakuanmitsu.jpg&#34; alt=&#34;逆餡蜜&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;逆餡蜜&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;分業ぶんぎょう&#34;&gt;分業（ぶんぎょう）&lt;/h4&gt;
 &lt;p&gt;分業指的是處理音符時將左手與右手完全分開處理的手法&lt;/p&gt;
 &lt;p&gt;舉例：&lt;/p&gt;
 &lt;p&gt;太鼓達人中只有一條軌道和兩種音符「咚」和「咔」，如果咚只用右手；咔只用左手處理就可以稱為分業。
-&lt;figure&gt;&lt;img src=&#34;img/taiko.jpg&#34; width=&#34;400&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;引用自https://www.famitsu.com/news/202207/19268465.html&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/taiko.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;引用自https://www.famitsu.com/news/202207/19268465.html&#34;&gt;
+      &lt;img src=&#34;img/taiko.jpg&#34; alt=&#34;引用自https://www.famitsu.com/news/202207/19268465.html&#34; width=&#34;400&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;引用自https://www.famitsu.com/news/202207/19268465.html&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;出張しゅっちょう&#34;&gt;出張（しゅっちょう）&lt;/h4&gt;
 &lt;p&gt;出張指的是手部大位移去處理音符的手法&lt;/p&gt;
@@ -265,15 +343,21 @@
 &lt;p&gt;空打是一種在沒有音符的地方空打來維持節奏的技巧&lt;/p&gt;
 &lt;h4 id=&#34;横認識縦認識&#34;&gt;横認識/縦認識&lt;/h4&gt;
 &lt;p&gt;横認識/縦認識是兩種認識譜面的方法，有時候改變譜面的看法可以發現新的解法。&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;img/yokoninshiki.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;横認識&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;a href=&#34;img/yokoninshiki.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;横認識&#34;&gt;
+      &lt;img src=&#34;img/yokoninshiki.jpg&#34; alt=&#34;横認識&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;横認識&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
-&lt;figure&gt;&lt;img src=&#34;img/tateninshiki.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;縦認識&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/tateninshiki.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;縦認識&#34;&gt;
+      &lt;img src=&#34;img/tateninshiki.jpg&#34; alt=&#34;縦認識&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;縦認識&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h3 id=&#34;譜面分類段落名稱&#34;&gt;譜面分類/段落名稱&lt;/h3&gt;
 &lt;h4 id=&#34;物量&#34;&gt;物量&lt;/h4&gt;
@@ -291,19 +375,25 @@
 &lt;p&gt;節奏難指的是節奏複雜、途中拍子發生變化等難以處理的情況&lt;/p&gt;
 &lt;h4 id=&#34;認識難&#34;&gt;認識難&lt;/h4&gt;
 &lt;p&gt;認識難指的是配置太密集，或是配置特殊導致非常難以讀譜的情況。
-&lt;figure&gt;&lt;img src=&#34;img/ninshikinan.jpg&#34; width=&#34;150&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;認識難&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/ninshikinan.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;認識難&#34;&gt;
+      &lt;img src=&#34;img/ninshikinan.jpg&#34; alt=&#34;認識難&#34; width=&#34;150&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;認識難&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;個人差&#34;&gt;個人差&lt;/h4&gt;
 &lt;p&gt;個人差指的是同一個譜面或配置，不同人遊玩的分數落差很大的情況。&lt;/p&gt;
 &lt;h4 id=&#34;腦筋脳トレ&#34;&gt;腦筋（脳トレ）&lt;/h4&gt;
 &lt;p&gt;腦筋配置指的是那些一眼看過去極度複雜，得動腦才能應對的地帶。
-&lt;figure&gt;&lt;img src=&#34;img/noukin.jpg&#34; width=&#34;150&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;我不想動腦🥹&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/noukin.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;我不想動腦🥹&#34;&gt;
+      &lt;img src=&#34;img/noukin.jpg&#34; alt=&#34;我不想動腦🥹&#34; width=&#34;150&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;我不想動腦🥹&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;尾殺ラス殺し&#34;&gt;尾殺（ラス殺し）&lt;/h4&gt;
 &lt;p&gt;尾殺指的是譜面接近曲子結束時突然難度變高的情況

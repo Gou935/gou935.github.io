@@ -118,60 +118,89 @@
 &lt;h4 id=&#34;階梯&#34;&gt;階梯&lt;/h4&gt;
 &lt;p&gt;非常常見的一種配置，剛才介紹過了。
 個人習慣用（無名指 4 和食指 2），但這沒有一定，也可以使用像是（無名指 4、大拇指 1）；或是（小指 5、食指 2）。總之先嘗試一種看看吧！
-&lt;figure&gt;&lt;img src=&#34;img/p9.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;階梯配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/p9.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;階梯配置&#34;&gt;
+      &lt;img src=&#34;img/p9.jpg&#34; alt=&#34;階梯配置&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;階梯配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;三鍵階梯&#34;&gt;三鍵階梯&lt;/h4&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;img/p5.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;三鍵階梯&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;a href=&#34;img/p5.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;三鍵階梯&#34;&gt;
+      &lt;img src=&#34;img/p5.jpg&#34; alt=&#34;三鍵階梯&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;三鍵階梯&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 一般來說順著方向指押比較容易，但不管是哪種都可以。
-&lt;figure&gt;&lt;img src=&#34;img/p5-2.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;三鍵階梯&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/p5-2.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;三鍵階梯&#34;&gt;
+      &lt;img src=&#34;img/p5-2.jpg&#34; alt=&#34;三鍵階梯&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;三鍵階梯&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;折返配置&#34;&gt;折返配置&lt;/h4&gt;
 &lt;p&gt;指法如下：
-&lt;figure&gt;&lt;img src=&#34;img/p4.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;折返配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/p4.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;折返配置&#34;&gt;
+      &lt;img src=&#34;img/p4.jpg&#34; alt=&#34;折返配置&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;折返配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;く字型配置&#34;&gt;く字型配置&lt;/h4&gt;
 &lt;p&gt;跟折返配置挺像的，只是尾端是單點處理。
 指法如下：
-&lt;figure&gt;&lt;img src=&#34;img/p6.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;く字型配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/p6.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;く字型配置&#34;&gt;
+      &lt;img src=&#34;img/p6.jpg&#34; alt=&#34;く字型配置&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;く字型配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;螺旋配置&#34;&gt;螺旋配置&lt;/h4&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;img/p7.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;螺旋配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;a href=&#34;img/p7.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;螺旋配置&#34;&gt;
+      &lt;img src=&#34;img/p7.jpg&#34; alt=&#34;螺旋配置&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;螺旋配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 乍看之下不知道該從哪裡開始，但其實可以分成左右各兩次的指押配置。
-&lt;figure&gt;&lt;img src=&#34;img/p7-2.jpg&#34; width=&#34;200&#34;/&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/p7-2.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;&#34;&gt;
+      &lt;img src=&#34;img/p7-2.jpg&#34; alt=&#34;&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h4 id=&#34;拘束配置&#34;&gt;拘束配置&lt;/h4&gt;
 &lt;p&gt;拘束指的是手的一部分被配置所限制的情況。
-&lt;figure&gt;&lt;img src=&#34;img/p8.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;拘束配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/p8.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;拘束配置&#34;&gt;
+      &lt;img src=&#34;img/p8.jpg&#34; alt=&#34;拘束配置&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;拘束配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 剛才許多配置都是 2、4 指來處理，但手的一部分被拘束的情況下用大拇指 1 來處理穩定許多喔。
-&lt;figure&gt;&lt;img src=&#34;img/p8-2.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;拘束配置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/p8-2.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;拘束配置&#34;&gt;
+      &lt;img src=&#34;img/p8-2.jpg&#34; alt=&#34;拘束配置&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;拘束配置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;p&gt;除了這些以外還有數不盡的配置可以練習，以上的解法也不是唯一的正解。最重要的還是透過不斷的&lt;strong&gt;練習&lt;/strong&gt;和&lt;strong&gt;研究&lt;/strong&gt;建立一套自己的解法。&lt;/p&gt;
 &lt;h3 id=&#34;推薦的練習曲&#34;&gt;推薦的練習曲&lt;/h3&gt;
@@ -200,20 +229,26 @@
 &lt;/div&gt;
 
 &lt;p&gt;這首也是由大量基礎配置組成的好練習曲，不過最後跑出了一個初期譜面特有的配置，就～加油 😓
-&lt;figure&gt;&lt;img src=&#34;img/haelequin.jpg&#34; width=&#34;600&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;12&amp;#43;放這種配置OK嗎&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/haelequin.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;12&amp;#43;放這種配置OK嗎&#34;&gt;
+      &lt;img src=&#34;img/haelequin.jpg&#34; alt=&#34;12&amp;#43;放這種配置OK嗎&#34; width=&#34;600&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;12&amp;#43;放這種配置OK嗎&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h3 id=&#34;13&#34;&gt;13+&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;題外話：
 我最近達成了 13+全 SSS ～好耶！！&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;figure&gt;&lt;img src=&#34;img/13-sss.jpg&#34; width=&#34;400&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;13&amp;#43;全SSS&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/13-sss.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;13&amp;#43;全SSS&#34;&gt;
+      &lt;img src=&#34;img/13-sss.jpg&#34; alt=&#34;13&amp;#43;全SSS&#34; width=&#34;400&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;13&amp;#43;全SSS&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;p&gt;好了不廢話&lt;/p&gt;
 &lt;h4 id=&#34;end-timeexpert13&#34;&gt;End Time（EXPERT13+）&lt;/h4&gt;
@@ -319,10 +354,13 @@
 
 &lt;p&gt;個人心目中イロドリ的前幾名神曲，なによりちゃんなぎがかわいい〜
 譜面配置雖然單純，但可以練習到不同節奏的指押，very good 練習&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;img/yaranakya.jpg&#34; width=&#34;600&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;AJ&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/yaranakya.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;AJ&#34;&gt;
+      &lt;img src=&#34;img/yaranakya.jpg&#34; alt=&#34;AJ&#34; width=&#34;600&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;AJ&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;h4 id=&#34;stellastellamaster13&#34;&gt;stella=steLLa（MASTER13+）&lt;/h4&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;

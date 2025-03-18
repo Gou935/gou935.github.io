@@ -19,10 +19,13 @@
 特別是音樂遊戲&lt;/p&gt;
 &lt;p&gt;除了音樂遊戲以外我還喜歡 RPG 遊戲&lt;/p&gt;
 &lt;p&gt;還有&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/kirby-smile.png&#34; width=&#34;300&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;星之卡比🌟&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;https://gou935.com/images/kirby-smile.png&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;星之卡比🌟&#34;&gt;
+      &lt;img src=&#34;https://gou935.com/images/kirby-smile.png&#34; alt=&#34;星之卡比🌟&#34; width=&#34;300&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;星之卡比🌟&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;p&gt;可愛吧！！！！！&lt;/p&gt;
 &lt;h3 id=&#34;想要聯繫我&#34;&gt;想要聯繫我？&lt;/h3&gt;
@@ -30,10 +33,6 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Email：goublog@outlook.com&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://twitter.com/Gou935&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;twitter（X）&lt;/a&gt;直接 DM&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;在文章下方留言：借助 &lt;a class=&#34;link&#34; href=&#34;https://utteranc.es/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;

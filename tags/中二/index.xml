@@ -68,10 +68,13 @@
 &lt;h4 id=&#34;視線的位置&#34;&gt;視線的位置&lt;/h4&gt;
 &lt;p&gt;新手常常會盯著下方判定線的位置看，但為了有時間對音符做出反應，可以試著將視線固定在譜面的上方。&lt;/p&gt;
 &lt;p&gt;當然，這時流速的配合就很重要了。要如何調整到適合的流速和視線位置，就慢慢地修正吧。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;img/mesen.jpg&#34; width=&#34;650&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;固定你的視線&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/mesen.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;固定你的視線&#34;&gt;
+      &lt;img src=&#34;img/mesen.jpg&#34; alt=&#34;固定你的視線&#34; width=&#34;650&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;固定你的視線&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;h4 id=&#34;推薦的歌曲排列方式&#34;&gt;推薦的歌曲排列方式&lt;/h4&gt;
 &lt;p&gt;歌曲可以按照等級排列，我也很推薦新手跟著等級慢慢打上去。&lt;/p&gt;
@@ -116,10 +119,13 @@
 &lt;li&gt;第二，抬起來的不管是哪隻手都可以&lt;/li&gt;
 &lt;li&gt;第三，抬起來後記得放下來（跟著音樂節奏上下）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;img/sensor.jpg&#34; width=&#34;550&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;抬到這個高度以上就可以&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;a href=&#34;img/sensor.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;抬到這個高度以上就可以&#34;&gt;
+      &lt;img src=&#34;img/sensor.jpg&#34; alt=&#34;抬到這個高度以上就可以&#34; width=&#34;550&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;抬到這個高度以上就可以&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 最開始肯定是不太熟悉，但沒關係。
 如果抬手高度不夠高的話，右下方會有叫你抬高一點的提示。慢慢地調整你就會找到適合的高度。&lt;/p&gt;
@@ -140,10 +146,13 @@
 除此之外，這些設定也可以在 chunithm net 中的 Option Setting 調整，
 下面我會介紹每一個設定是什麼作用。&lt;/p&gt;
 &lt;h4 id=&#34;game-setting遊戲設定&#34;&gt;Game Setting（遊戲設定）&lt;/h4&gt;
-&lt;figure&gt;&lt;img src=&#34;img/game-setting-1.jpg&#34; width=&#34;330&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;遊戲設定&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/game-setting-1.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;遊戲設定&#34;&gt;
+      &lt;img src=&#34;img/game-setting-1.jpg&#34; alt=&#34;遊戲設定&#34; width=&#34;330&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;遊戲設定&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;ul&gt;
 &lt;li&gt;SPEED（速度設定）
@@ -182,10 +191,13 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;sound-setting音效設定&#34;&gt;Sound Setting（音效設定）&lt;/h4&gt;
-&lt;figure&gt;&lt;img src=&#34;img/game-setting-2.jpg&#34; width=&#34;330&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;音效設定&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/game-setting-2.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;音效設定&#34;&gt;
+      &lt;img src=&#34;img/game-setting-2.jpg&#34; alt=&#34;音效設定&#34; width=&#34;330&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;音效設定&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;ul&gt;
 &lt;li&gt;GUIDE SOUND VOLUME
@@ -237,10 +249,13 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;position-of-judgment-setting設定判定顯示方式和位置&#34;&gt;Position of Judgment Setting（設定判定顯示方式和位置）&lt;/h4&gt;
-&lt;figure&gt;&lt;img src=&#34;img/game-setting-3.jpg&#34; width=&#34;330&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;判定顯示方式和位置&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/game-setting-3.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;判定顯示方式和位置&#34;&gt;
+      &lt;img src=&#34;img/game-setting-3.jpg&#34; alt=&#34;判定顯示方式和位置&#34; width=&#34;330&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;判定顯示方式和位置&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;ul&gt;
 &lt;li&gt;POSITION OF JUDGMENT（判定的顯示位置）
@@ -260,10 +275,13 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;field-setting背景設定&#34;&gt;Field Setting（背景設定）&lt;/h4&gt;
-&lt;figure&gt;&lt;img src=&#34;img/game-setting-4.jpg&#34; width=&#34;330&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;背景設定&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/game-setting-4.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;背景設定&#34;&gt;
+      &lt;img src=&#34;img/game-setting-4.jpg&#34; alt=&#34;背景設定&#34; width=&#34;330&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;背景設定&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;ul&gt;
 &lt;li&gt;
@@ -304,10 +322,13 @@
 &lt;p&gt;&lt;strong&gt;為什麼需要手套呢？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;中二節奏是透過觸控板來遊玩的，戴手套可以減少摩擦以及保護手指；
 在某些曲子中需要快速滑動的時候也比較適合。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;img/chunithm-touhi.jpg&#34; width=&#34;150&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;《逃避》 ～ The Deserter的快速划動&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/chunithm-touhi.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;《逃避》 ～ The Deserter的快速划動&#34;&gt;
+      &lt;img src=&#34;img/chunithm-touhi.jpg&#34; alt=&#34;《逃避》 ～ The Deserter的快速划動&#34; width=&#34;150&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;《逃避》 ～ The Deserter的快速划動&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;p&gt;&lt;strong&gt;什麼樣的手套比較好呢？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -324,23 +345,32 @@
 &lt;li&gt;尼龍手套&lt;/li&gt;
 &lt;li&gt;工業手套&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;img/nylon-gloves.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;尼龍手套&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;a href=&#34;img/nylon-gloves.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;尼龍手套&#34;&gt;
+      &lt;img src=&#34;img/nylon-gloves.jpg&#34; alt=&#34;尼龍手套&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;尼龍手套&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
-&lt;figure&gt;&lt;img src=&#34;img/gunte.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;工業手套&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/gunte.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;工業手套&#34;&gt;
+      &lt;img src=&#34;img/gunte.jpg&#34; alt=&#34;工業手套&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;工業手套&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;p&gt;我個人最推薦&lt;strong&gt;尼龍手套&lt;/strong&gt;，原因是比起厚且粗糙的工業手套，尼龍手套比較貼手而且材質也比較滑。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;不戴手套玩也有好處嗎？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在某些需要細緻操作的時候，特別像是下方這種小顆粒音符，手套有時候因為接觸面積太大會誤判；而且戴上手套後也不好活動手指。
-&lt;figure&gt;&lt;img src=&#34;img/chunithm-star.jpg&#34; width=&#34;250&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;【STAR】的小顆粒指押&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/chunithm-star.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;【STAR】的小顆粒指押&#34;&gt;
+      &lt;img src=&#34;img/chunithm-star.jpg&#34; alt=&#34;【STAR】的小顆粒指押&#34; width=&#34;250&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;【STAR】的小顆粒指押&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;p&gt;所以根據譜面的特性選擇適合的方式也很重要。
 不管怎麼樣，有一副手套總不會錯。&lt;/p&gt;
@@ -463,24 +493,30 @@
 &lt;p&gt;同樣難度標示的曲子，實際上還有一個隱藏數值來細分難度，那就是譜面定數。&lt;/p&gt;
 &lt;p&gt;例如說：&lt;/p&gt;
 &lt;p&gt;下面這首（天空カフェテリア）的 Master 難度標示為 12，但實際上的隱藏數值是（12.2）&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/usagi.jpg&#34;
-         alt=&#34;點兔香香&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;（12.2）&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;https://gou935.com/images/usagi.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;&#34;&gt;
+      &lt;img src=&#34;https://gou935.com/images/usagi.jpg&#34; alt=&#34;&#34; width=&#34;270&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    
+  &lt;/figure&gt;
+  
 
-&lt;p&gt;而另一首（ごまかし）的 Master 難度標示同樣為 12，但實際上的隱藏數值是（12.1）&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/gomakashi.jpg&#34;
-         alt=&#34;神曲&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;（12.1）&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;而另一首（ごまかし）的 Master 難度標示同樣為 12，但實際上的隱藏數值是（12.1）&lt;figure&gt;
+    &lt;a href=&#34;https://gou935.com/images/gomakashi.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;&#34;&gt;
+      &lt;img src=&#34;https://gou935.com/images/gomakashi.jpg&#34; alt=&#34;&#34; width=&#34;270&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;p&gt;還有像是這首 12+，譜面定數為（12.9）：&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/redeyes.jpg&#34;
-         alt=&#34;赤瞳&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;（12.9）&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;https://gou935.com/images/redeyes.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;&#34;&gt;
+      &lt;img src=&#34;https://gou935.com/images/redeyes.jpg&#34; alt=&#34;&#34; width=&#34;270&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    
+  &lt;/figure&gt;
+  
 
 &lt;p&gt;像這樣子譜面定數&lt;code&gt;12.(0~4)&lt;/code&gt;標示為 12；&lt;code&gt;12.(5~9)&lt;/code&gt;則標示為 12+就是譜面等級的分類規則。
 其他等級以此類推。 &lt;strong&gt;要注意的是這個數值並不代表譜面的絕對難度，只是用來計算成績的數值。&lt;/strong&gt;&lt;/p&gt;
@@ -489,15 +525,21 @@
 &lt;h3 id=&#34;成績定數&#34;&gt;成績定數&lt;/h3&gt;
 &lt;p&gt;成績定數是計算一首曲子遊玩後單曲成績的計算規則&lt;/p&gt;
 &lt;p&gt;表格中列出了拿到各種成績時的計算方法&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/ratingformula.jpg&#34; width=&#34;270&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;成績定數表1&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;a href=&#34;https://gou935.com/images/ratingformula.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;成績定數表1&#34;&gt;
+      &lt;img src=&#34;https://gou935.com/images/ratingformula.jpg&#34; alt=&#34;成績定數表1&#34; width=&#34;270&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;成績定數表1&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
-&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/ratingformula2.jpg&#34; width=&#34;400&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;成績定數表2&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;https://gou935.com/images/ratingformula2.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;成績定數表2&#34;&gt;
+      &lt;img src=&#34;https://gou935.com/images/ratingformula2.jpg&#34; alt=&#34;成績定數表2&#34; width=&#34;400&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;成績定數表2&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;h3 id=&#34;單曲-r-值計算方法&#34;&gt;單曲 R 值計算方法&lt;/h3&gt;
 &lt;p&gt;單曲 R 值是你玩完一首曲子後會獲得的 R 值成績&lt;/p&gt;
@@ -527,19 +569,25 @@
 &lt;p&gt;成功啟動查分器後你可以看到以單曲 R 值排列的表格。在每一首曲子的最右邊顯示著相應成績所計算出來的單曲 R 值。
 1 ～ 30 的曲子就是你的 B30，而右上角還有顯示 B30 的平均為: （16.1767）&lt;/p&gt;
 &lt;p&gt;B30 是組成 R 值的重要部分，因為 B30 只要成功更新後就不會再下降，相當於是 R 值的根本。但因為 B30 中&lt;strong&gt;同一曲子的成績只會計算一次不會重複&lt;/strong&gt;，所以要想提高 B30 的話就得要不斷挑戰更高定數的新曲子或是拉高現有的分數；可以說提高 B30 就是提高自己 R 值的上限。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/best30.jpg&#34; width=&#34;460&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;我的B30（雖然只截到15）&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;https://gou935.com/images/best30.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;我的B30（雖然只截到15）&#34;&gt;
+      &lt;img src=&#34;https://gou935.com/images/best30.jpg&#34; alt=&#34;我的B30（雖然只截到15）&#34; width=&#34;460&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;我的B30（雖然只截到15）&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;h4 id=&#34;recent10&#34;&gt;Recent10&lt;/h4&gt;
 &lt;p&gt;而點選到 Recent 頁面你就可以看到 R10 了。同樣的右上角顯示 R10 平均為: （16.3050）&lt;/p&gt;
 &lt;p&gt;R10 代表著你近期的表現，不像 B30；R10 會隨著近期的表現不斷更新，這表示 R 值會隨著 R10 的浮動而升降（&lt;del&gt;你會掉 R 就是因為它&lt;/del&gt;）。
 由於 R10&lt;strong&gt;可以重複計入&lt;/strong&gt;，因此 R10 全是同一首曲的情況也是可以的。（就連續打直到 R10 被填滿）&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/recent10.jpg&#34; width=&#34;460&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;我的R10&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;https://gou935.com/images/recent10.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;我的R10&#34;&gt;
+      &lt;img src=&#34;https://gou935.com/images/recent10.jpg&#34; alt=&#34;我的R10&#34; width=&#34;460&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;我的R10&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;h3 id=&#34;r-值的計算方法&#34;&gt;R 值的計算方法～&lt;/h3&gt;
 &lt;p&gt;了解以上的事情之後，我們&lt;del&gt;終於&lt;/del&gt;可以來看看如何計算 R 值了。
@@ -555,18 +603,24 @@ R 值的計算公式是：&lt;/p&gt;
 &lt;p&gt;像是這個&lt;a class=&#34;link&#34; href=&#34;https://chunirec.net/tools/calc/play-rating&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;單曲 R 值計算工具&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;只要輸入曲名和分數就可以輕鬆算出單曲 R 值
-&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/ratingcaculate.jpg&#34; width=&#34;500&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;單曲R值為14.30&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;https://gou935.com/images/ratingcaculate.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;單曲R值為14.30&#34;&gt;
+      &lt;img src=&#34;https://gou935.com/images/ratingcaculate.jpg&#34; alt=&#34;單曲R值為14.30&#34; width=&#34;500&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;單曲R值為14.30&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;p&gt;又或是這個&lt;a class=&#34;link&#34; href=&#34;https://chunirec.net/tools/calc/rating-simu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Rating 計算器&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;只要輸入 B30 平均和 R10 平均就可以輕鬆的算出 R 值
-&lt;figure&gt;&lt;img src=&#34;https://gou935.com/images/ratingsimulator.jpg&#34; width=&#34;500&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;由上面的圖計算出R值為16.20&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;https://gou935.com/images/ratingsimulator.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;由上面的圖計算出R值為16.20&#34;&gt;
+      &lt;img src=&#34;https://gou935.com/images/ratingsimulator.jpg&#34; alt=&#34;由上面的圖計算出R值為16.20&#34; width=&#34;500&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;由上面的圖計算出R值為16.20&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 &lt;/p&gt;
 &lt;p&gt;其他還有像是&lt;a class=&#34;link&#34; href=&#34;https://chunirec.net/tools/calc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;這些工具&lt;/a&gt;，每個都可以試看看。&lt;/p&gt;
@@ -633,10 +687,13 @@ R 值的計算公式是：&lt;/p&gt;
 &lt;p&gt;所以中二節奏這個翻譯名可以說是簡單又直接。&lt;/p&gt;
 &lt;h3 id=&#34;機台外觀&#34;&gt;機台外觀&lt;/h3&gt;
 &lt;p&gt;目前中二節奏的機台類型分為兩種，金色和銀色的機台。&lt;/p&gt;
-&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;img/chunithm-sun.jpg&#34; width=&#34;320&#34; height=&#34;640&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;機台對比&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/chunithm-sun.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;機台對比&#34;&gt;
+      &lt;img src=&#34;img/chunithm-sun.jpg&#34; alt=&#34;機台對比&#34; width=&#34;320&#34; height=&#34;640&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;機台對比&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;p&gt;想要簡單了解有什麼不一樣的話可以看下面的表格。&lt;/p&gt;
 &lt;table&gt;
@@ -669,8 +726,13 @@ R 值的計算公式是：&lt;/p&gt;
 &lt;p&gt;簡單說明的話就是120fps的畫面會更順暢，譜面也能看的更清楚。&lt;/p&gt;
 &lt;p&gt;海外國際版目前一律是銀色的機台。（希望哪一天能引進金色機台）&lt;/p&gt;
 &lt;h4 id=&#34;對了-長得很像atm&#34;&gt;對了 長得很像ATM&lt;/h4&gt;
-&lt;figure&gt;&lt;img src=&#34;img/atm.jpg&#34; width=&#34;350&#34;/&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/atm.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;&#34;&gt;
+      &lt;img src=&#34;img/atm.jpg&#34; alt=&#34;&#34; width=&#34;350&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    
+  &lt;/figure&gt;
+  
 
 &lt;h3 id=&#34;觸控板和感應器&#34;&gt;觸控板和感應器&lt;/h3&gt;
 &lt;p&gt;這個遊戲最大的特色&lt;/p&gt;
@@ -682,36 +744,53 @@ R 值的計算公式是：&lt;/p&gt;
 &lt;p&gt;操作都由觸控板來進行&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;img/air-sensor.jpg&#34; width=&#34;450&#34;/&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/air-sensor.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;&#34;&gt;
+      &lt;img src=&#34;img/air-sensor.jpg&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    
+  &lt;/figure&gt;
+  
 
 &lt;p&gt;觸控板與手機常用的電容式觸控是不同原理，所以只要是有點重量都可以感應成功，&lt;strong&gt;注意力道遊玩吧！&lt;/strong&gt;&lt;/p&gt;
 &lt;h3 id=&#34;觸控板的秘密&#34;&gt;觸控板的秘密&lt;/h3&gt;
 &lt;p&gt;也許你已經有玩過中二節奏了，但你或許不知道其實中二節奏的觸控板是分成&lt;strong&gt;上下各16格&lt;/strong&gt;總共32格。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;img/chunithm-slider.jpg&#34; width=&#34;600&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;上下各16格&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/chunithm-slider.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;上下各16格&#34;&gt;
+      &lt;img src=&#34;img/chunithm-slider.jpg&#34; alt=&#34;上下各16格&#34; width=&#34;600&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;上下各16格&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;p&gt;至於這有什麼重要的就繼續看下去吧！&lt;/p&gt;
 &lt;h4 id=&#34;觸控板的操作&#34;&gt;觸控板的操作&lt;/h4&gt;
 &lt;p&gt;剛才提到觸控板分為上下很重要是因為只要理解到這件事，下面的這些譜面就知道該怎麼打了。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;img/usatei-79bar.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;【ウサテイ】79小節&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/usatei-79bar.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;【ウサテイ】79小節&#34;&gt;
+      &lt;img src=&#34;img/usatei-79bar.jpg&#34; alt=&#34;【ウサテイ】79小節&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;【ウサテイ】79小節&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;p&gt;例如一隻手按在中間下半部的觸控板，另一隻手去打AIR。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;img/kibou-no-tsuki-47bar.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;【幾望の月】47小節&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/kibou-no-tsuki-47bar.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;【幾望の月】47小節&#34;&gt;
+      &lt;img src=&#34;img/kibou-no-tsuki-47bar.jpg&#34; alt=&#34;【幾望の月】47小節&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;【幾望の月】47小節&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;p&gt;同樣地為了不妨礙左右來回的Flick，一隻手按住Slide後往下半部移動。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;img/senkou-39bar.jpg&#34; width=&#34;200&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;【閃鋼のブリューナク】39小節&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;img/senkou-39bar.jpg&#34; data-lightbox=&#34;gallery&#34; data-title=&#34;【閃鋼のブリューナク】39小節&#34;&gt;
+      &lt;img src=&#34;img/senkou-39bar.jpg&#34; alt=&#34;【閃鋼のブリューナク】39小節&#34; width=&#34;200&#34; height=&#34;&#34;  loading=&#34;lazy&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;【閃鋼のブリューナク】39小節&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  
 
 &lt;p&gt;又或是像這樣的譜面，大拇指按住Hold之後，剩餘的手指就可以在上方處理Tap了。&lt;/p&gt;
 &lt;hr&gt;
